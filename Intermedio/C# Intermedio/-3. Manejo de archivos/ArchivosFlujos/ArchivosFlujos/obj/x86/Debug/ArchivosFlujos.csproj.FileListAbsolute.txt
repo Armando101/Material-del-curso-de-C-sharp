@@ -1,0 +1,5 @@
+C:\Users\arman\Desktop\Curso C#\Intermedio\C# Intermedio\-3. Manejo de archivos\ArchivosFlujos\ArchivosFlujos\bin\Debug\ArchivosFlujos.exe
+C:\Users\arman\Desktop\Curso C#\Intermedio\C# Intermedio\-3. Manejo de archivos\ArchivosFlujos\ArchivosFlujos\bin\Debug\ArchivosFlujos.pdb
+C:\Users\arman\Desktop\Curso C#\Intermedio\C# Intermedio\-3. Manejo de archivos\ArchivosFlujos\ArchivosFlujos\obj\x86\Debug\ArchivosFlujos.csprojResolveAssemblyReference.cache
+C:\Users\arman\Desktop\Curso C#\Intermedio\C# Intermedio\-3. Manejo de archivos\ArchivosFlujos\ArchivosFlujos\obj\x86\Debug\ArchivosFlujos.exe
+C:\Users\arman\Desktop\Curso C#\Intermedio\C# Intermedio\-3. Manejo de archivos\ArchivosFlujos\ArchivosFlujos\obj\x86\Debug\ArchivosFlujos.pdb

@@ -1,0 +1,12 @@
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\5. Clases y Objetos\ClasesEstaticas\ClasesEstaticas\bin\Debug\ClasesEstaticas.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\5. Clases y Objetos\ClasesEstaticas\ClasesEstaticas\bin\Debug\ClasesEstaticas.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\5. Clases y Objetos\ClasesEstaticas\ClasesEstaticas\obj\x86\Debug\ClasesEstaticas.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\5. Clases y Objetos\ClasesEstaticas\ClasesEstaticas\obj\x86\Debug\ClasesEstaticas.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\5. Clases y Objetos\ClasesEstaticas\ClasesEstaticas\obj\x86\Debug\ClasesEstaticas.pdb
+E:\ProtecoStuff\CursoC#Enero2017\C# Básico\5. Clases y Objetos\ClasesEstaticas\ClasesEstaticas\obj\x86\Debug\ClasesEstaticas.exe
+E:\ProtecoStuff\CursoC#Enero2017\C# Básico\5. Clases y Objetos\ClasesEstaticas\ClasesEstaticas\obj\x86\Debug\ClasesEstaticas.pdb
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\4. Clases y Objetos\2.- ClasesEstaticas\ClasesEstaticas\bin\Debug\ClasesEstaticas.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\4. Clases y Objetos\2.- ClasesEstaticas\ClasesEstaticas\bin\Debug\ClasesEstaticas.pdb
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\4. Clases y Objetos\2.- ClasesEstaticas\ClasesEstaticas\obj\x86\Debug\ClasesEstaticas.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\4. Clases y Objetos\2.- ClasesEstaticas\ClasesEstaticas\obj\x86\Debug\ClasesEstaticas.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\4. Clases y Objetos\2.- ClasesEstaticas\ClasesEstaticas\obj\x86\Debug\ClasesEstaticas.pdb

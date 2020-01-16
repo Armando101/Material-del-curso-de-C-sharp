@@ -1,0 +1,13 @@
+C:\Users\Enrique\Downloads\Compressed\csharp-examples-master\C# Intermedio\Inicial\1. Delegados, Lambdas y Eventos\MetodosAnonimos\MetodosAnonimos\bin\Debug\MetodosAnonimos.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\MetodosAnonimos\MetodosAnonimos\bin\Debug\MetodosAnonimos.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\MetodosAnonimos\MetodosAnonimos\bin\Debug\MetodosAnonimos.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\MetodosAnonimos\MetodosAnonimos\bin\Debug\MetodosAnonimos.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\MetodosAnonimos\MetodosAnonimos\obj\Debug\MetodosAnonimos.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\MetodosAnonimos\MetodosAnonimos\obj\Debug\MetodosAnonimos.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\MetodosAnonimos\MetodosAnonimos\obj\Debug\MetodosAnonimos.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\MetodosAnonimos(3)\MetodosAnonimos\bin\Debug\MetodosAnonimos.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\MetodosAnonimos(3)\MetodosAnonimos\obj\Debug\MetodosAnonimos.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\MetodosAnonimos(3)\MetodosAnonimos\obj\Debug\MetodosAnonimos.pdb
+E:\ProtecoStuff\CursoC#Enero2017\C# Intermedio\7. Eventos\MetodosAnonimos(4)\MetodosAnonimos\bin\Debug\MetodosAnonimos.exe.config
+E:\ProtecoStuff\CursoC#Enero2017\C# Intermedio\7. Eventos\MetodosAnonimos(4)\MetodosAnonimos\obj\Debug\MetodosAnonimos.exe
+E:\ProtecoStuff\CursoC#Enero2017\C# Intermedio\7. Eventos\MetodosAnonimos(4)\MetodosAnonimos\obj\Debug\MetodosAnonimos.pdb

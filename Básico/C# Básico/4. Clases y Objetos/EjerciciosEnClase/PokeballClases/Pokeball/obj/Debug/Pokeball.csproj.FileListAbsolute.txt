@@ -1,0 +1,9 @@
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\9. Herencia\Pokeball\Pokeball\bin\Debug\Pokeball.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\9. Herencia\Pokeball\Pokeball\bin\Debug\Pokeball.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\9. Herencia\Pokeball\Pokeball\bin\Debug\Pokeball.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\9. Herencia\Pokeball\Pokeball\obj\Debug\Pokeball.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\9. Herencia\Pokeball\Pokeball\obj\Debug\Pokeball.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\9. Herencia\Pokeball\Pokeball\obj\Debug\Pokeball.pdb
+E:\ProtecoStuff\CursoC#Enero2017\C# Básico\5. Clases y Objetos\PokeballClases\Pokeball\bin\Debug\Pokeball.exe.config
+E:\ProtecoStuff\CursoC#Enero2017\C# Básico\5. Clases y Objetos\PokeballClases\Pokeball\obj\Debug\Pokeball.exe
+E:\ProtecoStuff\CursoC#Enero2017\C# Básico\5. Clases y Objetos\PokeballClases\Pokeball\obj\Debug\Pokeball.pdb

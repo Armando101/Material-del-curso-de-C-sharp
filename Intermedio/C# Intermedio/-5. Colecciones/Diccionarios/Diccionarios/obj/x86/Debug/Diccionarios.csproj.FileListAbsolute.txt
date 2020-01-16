@@ -1,0 +1,5 @@
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\6. Colecciones\Diccionarios\Diccionarios\bin\Debug\Diccionarios.exe
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\6. Colecciones\Diccionarios\Diccionarios\bin\Debug\Diccionarios.pdb
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\6. Colecciones\Diccionarios\Diccionarios\obj\x86\Debug\Diccionarios.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\6. Colecciones\Diccionarios\Diccionarios\obj\x86\Debug\Diccionarios.exe
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\6. Colecciones\Diccionarios\Diccionarios\obj\x86\Debug\Diccionarios.pdb

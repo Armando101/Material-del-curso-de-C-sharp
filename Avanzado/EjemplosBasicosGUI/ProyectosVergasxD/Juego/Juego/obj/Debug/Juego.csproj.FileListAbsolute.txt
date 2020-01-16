@@ -1,0 +1,18 @@
+c:\users\arman\documents\visual studio 2017\Projects\Juego\Juego\bin\Debug\Juego.exe.config
+c:\users\arman\documents\visual studio 2017\Projects\Juego\Juego\bin\Debug\Juego.exe
+c:\users\arman\documents\visual studio 2017\Projects\Juego\Juego\bin\Debug\Juego.pdb
+c:\users\arman\documents\visual studio 2017\Projects\Juego\Juego\obj\Debug\Juego.csprojResolveAssemblyReference.cache
+c:\users\arman\documents\visual studio 2017\Projects\Juego\Juego\obj\Debug\Juego.Form1.resources
+c:\users\arman\documents\visual studio 2017\Projects\Juego\Juego\obj\Debug\Juego.Properties.Resources.resources
+c:\users\arman\documents\visual studio 2017\Projects\Juego\Juego\obj\Debug\Juego.csproj.GenerateResource.Cache
+c:\users\arman\documents\visual studio 2017\Projects\Juego\Juego\obj\Debug\Juego.exe
+c:\users\arman\documents\visual studio 2017\Projects\Juego\Juego\obj\Debug\Juego.pdb
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\ProyectosVergasxD\Juego\Juego\obj\Debug\Juego.Form1.resources
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\ProyectosVergasxD\Juego\Juego\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\ProyectosVergasxD\Juego\Juego\obj\Debug\Juego.csproj.GenerateResource.Cache
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\ProyectosVergasxD\Juego\Juego\bin\Debug\MiPrimerJuego.exe.config
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\ProyectosVergasxD\Juego\Juego\bin\Debug\MiPrimerJuego.exe
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\ProyectosVergasxD\Juego\Juego\bin\Debug\MiPrimerJuego.pdb
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\ProyectosVergasxD\Juego\Juego\obj\Debug\MiPrimerJuego.exe
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\ProyectosVergasxD\Juego\Juego\obj\Debug\MiPrimerJuego.pdb
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\ProyectosVergasxD\Juego\Juego\obj\Debug\Juego.csprojResolveAssemblyReference.cache

@@ -1,0 +1,19 @@
+C:\Users\SánchezRodríguez\Documents\UNAM\Inters\C#\Intermedio\Dia5\ProyectoIntermedio_SRMT\ProyectoIntermedio_SRMT\bin\Debug\ProyectoIntermedio_SRMT.exe.config
+C:\Users\SánchezRodríguez\Documents\UNAM\Inters\C#\Intermedio\Dia5\ProyectoIntermedio_SRMT\ProyectoIntermedio_SRMT\bin\Debug\ProyectoIntermedio_SRMT.exe
+C:\Users\SánchezRodríguez\Documents\UNAM\Inters\C#\Intermedio\Dia5\ProyectoIntermedio_SRMT\ProyectoIntermedio_SRMT\bin\Debug\ProyectoIntermedio_SRMT.pdb
+C:\Users\SánchezRodríguez\Documents\UNAM\Inters\C#\Intermedio\Dia5\ProyectoIntermedio_SRMT\ProyectoIntermedio_SRMT\obj\Debug\ProyectoIntermedio_SRMT.csprojResolveAssemblyReference.cache
+C:\Users\SánchezRodríguez\Documents\UNAM\Inters\C#\Intermedio\Dia5\ProyectoIntermedio_SRMT\ProyectoIntermedio_SRMT\obj\Debug\ProyectoIntermedio_SRMT.exe
+C:\Users\SánchezRodríguez\Documents\UNAM\Inters\C#\Intermedio\Dia5\ProyectoIntermedio_SRMT\ProyectoIntermedio_SRMT\obj\Debug\ProyectoIntermedio_SRMT.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\ProyectoEnero2016\ProyectoIntermedio_SRMT\ProyectoIntermedio_SRMT\bin\Debug\ProyectoIntermedio_SRMT.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\ProyectoEnero2016\ProyectoIntermedio_SRMT\ProyectoIntermedio_SRMT\obj\Debug\ProyectoIntermedio_SRMT.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\ProyectoEnero2016\ProyectoIntermedio_SRMT\ProyectoIntermedio_SRMT\obj\Debug\ProyectoIntermedio_SRMT.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\ProyectoEnero2016\ProyectoIntermedio_SRMT\ProyectoIntermedio_SRMT\bin\Debug\ProyectoIntermedio_SRMT.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\ProyectoEnero2016\ProyectoIntermedio_SRMT\ProyectoIntermedio_SRMT\bin\Debug\ProyectoIntermedio_SRMT.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\ProyectoEnero2016\ProyectoIntermedio_SRMT\ProyectoIntermedio_SRMT\obj\Debug\ProyectoIntermedio_SRMT.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\ProyectoEnero2016\ProyectoIntermedio_SRMT\ProyectoIntermedio_SRMT\bin\Debug\ProyectoIntermedio_SRMT.exe.config
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\ProyectoEnero2016\ProyectoIntermedio_SRMT\ProyectoIntermedio_SRMT\bin\Debug\ProyectoIntermedio_SRMT.exe
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\ProyectoEnero2016\ProyectoIntermedio_SRMT\ProyectoIntermedio_SRMT\bin\Debug\ProyectoIntermedio_SRMT.pdb
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\ProyectoEnero2016\ProyectoIntermedio_SRMT\ProyectoIntermedio_SRMT\obj\Debug\ProyectoIntermedio_SRMT.csprojAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\ProyectoEnero2016\ProyectoIntermedio_SRMT\ProyectoIntermedio_SRMT\obj\Debug\ProyectoIntermedio_SRMT.csproj.CoreCompileInputs.cache
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\ProyectoEnero2016\ProyectoIntermedio_SRMT\ProyectoIntermedio_SRMT\obj\Debug\ProyectoIntermedio_SRMT.exe
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\ProyectoEnero2016\ProyectoIntermedio_SRMT\ProyectoIntermedio_SRMT\obj\Debug\ProyectoIntermedio_SRMT.pdb

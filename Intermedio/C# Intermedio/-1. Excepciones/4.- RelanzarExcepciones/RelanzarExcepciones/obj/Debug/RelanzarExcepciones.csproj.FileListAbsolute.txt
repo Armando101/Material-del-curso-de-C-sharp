@@ -1,0 +1,6 @@
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\1. Excepciones\RelanzarExcepciones\RelanzarExcepciones\bin\Debug\RelanzarExcepciones.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\1. Excepciones\RelanzarExcepciones\RelanzarExcepciones\bin\Debug\RelanzarExcepciones.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\1. Excepciones\RelanzarExcepciones\RelanzarExcepciones\bin\Debug\RelanzarExcepciones.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\1. Excepciones\RelanzarExcepciones\RelanzarExcepciones\obj\Debug\RelanzarExcepciones.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\1. Excepciones\RelanzarExcepciones\RelanzarExcepciones\obj\Debug\RelanzarExcepciones.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\1. Excepciones\RelanzarExcepciones\RelanzarExcepciones\obj\Debug\RelanzarExcepciones.pdb

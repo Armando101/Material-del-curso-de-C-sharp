@@ -1,0 +1,5 @@
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\8. LINQ\QuerySyntax2\QuerySyntax2\bin\Debug\QuerySyntax2.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\8. LINQ\QuerySyntax2\QuerySyntax2\bin\Debug\QuerySyntax2.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\8. LINQ\QuerySyntax2\QuerySyntax2\obj\x86\Debug\QuerySyntax2.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\8. LINQ\QuerySyntax2\QuerySyntax2\obj\x86\Debug\QuerySyntax2.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\8. LINQ\QuerySyntax2\QuerySyntax2\obj\x86\Debug\QuerySyntax2.pdb

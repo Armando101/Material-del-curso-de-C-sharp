@@ -1,0 +1,974 @@
+<!DOCTYPE html>
+<!-- saved from url=(0021)http://rextester.com/ -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>
+	
+    compile c# online 
+</title><meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="Keywords" content="compile c# online"><meta name="Description" content="compile c# online"> <link rel="stylesheet" href="./compile c# online_files/codemirror_min.css"><link rel="stylesheet" href="./compile c# online_files/csharp.css">
+                <style type="text/css">
+                    body
+                    {
+                        font-family: Arial;    
+                    }
+                    h2
+                    {
+                        color:Gray; 
+                        margin-top: 0.5em;
+                        margin-bottom: 0.5em;
+                    }
+                    pre.resultarea, code
+                    {
+                        font-family: "Consolas",monospace;
+                        font-size: 14px;
+                        white-space: pre-wrap;       /* css-3 */
+                        white-space: -moz-pre-wrap !important;  /* Mozilla, since 1999 */
+                        white-space: -pre-wrap;      /* Opera 4-6 */
+                        white-space: -o-pre-wrap;    /* Opera 7 */
+                        word-wrap: break-word;       /* Internet Explorer 5.5+ */
+                        width: 99%;
+                    }
+                    a.related 
+                    {
+                        text-decoration:none;
+                        color:gray;
+                    }
+                    a.related:visited 
+                    {
+                        text-decoration:none;
+                        color:#9f9f9f;
+                    }
+                    a.related:hover 
+                    {
+                        text-decoration:underline;
+                        color:gray;
+                    }
+                    span.yellow
+                    {
+                        background: yellow;    
+                    }
+                    span.blue
+                    {
+                        background: #CCFFFF;    
+                    }
+                    span.magenta
+                    {
+                        background: #FFCCFF;    
+                    }
+                    span.options
+                    {
+                        font-family: Arial;
+                        font-size: 13px;
+                        white-space:nowrap;
+                    }
+                    div.formcontent
+                    {
+                        background: #EEEEEE;
+                        margin-bottom:0.5em;
+                    }
+                    a.selectedlink
+                    {
+                        background: #9966FF;
+                        color: White;
+                    }
+                    a.notselectedlink
+                    {
+                        color: #9966FF;
+                    }
+                    a.notselectedlink:hover
+                    {
+                        background: #9966FF;
+                        color: White;
+                    }
+                    a.smalllink:hover
+                    {
+                        background-color: #777;
+                        color: white;
+                        text-decoration: none;
+                        cursor: pointer;
+                        font-family: sans-serif;
+                        font-size: 14px;
+                    }
+                    a.smalllink
+                    {
+                        color: #444;
+                        font-family: sans-serif;
+                        font-size: 14px;
+                        text-decoration: none;
+                    }
+                    span.smalllink
+                    {
+                        color: #444;
+                        font-family: sans-serif;
+                        font-size: 14px;
+                        text-decoration: none;
+                    }
+                    span.hov:hover {
+                        background-color: #777;
+                        color: white;
+                        text-decoration: none;
+                        cursor: pointer;
+                    }
+                    pre#Result
+                    {
+                        margin-left: 0.5em;    
+                    }
+                    input[type=button],
+                    input[type=submit]
+                    {
+                        color: #555;
+                        border: 1px solid #555;
+                        font-weight: bold;
+                    }
+                    .input_box 
+                    {
+                        background-color:#FFFFBB;
+                        border: solid 1px gray;
+                    }
+                    .sqloutput
+                    {
+                        border-style: none;    
+                        border-collapse: collapse;
+                    }
+                    .sqloutput th, .sqloutput td
+                    {
+                        border-style: solid;
+                        border-width: 1px;
+                        border-color: Gray;
+                        padding: 0 3px 0 3px;
+                    }
+                    .carbon-text {
+                        color:white;
+                        text-align:justify;
+                        text-decoration:none;
+                    }
+                    .carbon-poweredby {
+                        color:white;
+                        display: block;
+                        text-decoration:none;
+                    }
+                    .CodeMirror {font-size: 13px}
+                </style>
+        
+    <script type="text/javascript" async="" src="./compile c# online_files/ga.js.descarga"></script><script language="javascript" type="text/javascript" src="./compile c# online_files/jquery-latest.min.js.descarga"></script>
+    
+    
+    <script type="text/javascript">
+        
+    </script>
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-15090815-2']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+<script id="_carbonads_projs" type="text/javascript" src="./compile c# online_files/C6AILKT.json"></script></head>
+<body>
+    
+    <script src="./compile c# online_files/codemirrorwithhint_min.js.descarga" type="text/javascript"></script>
+    <script type="text/javascript">
+        //<![CDATA[
+        var has_changes = false;
+        var GlobalEditor;
+
+        $(document).ready(function () {
+
+            $('#delete_link').on('click', function () {
+                var a = confirm('Are you sure?');
+                if (a) {
+                    window.location = "http://rextester.com/delete/";
+                }
+            });
+
+            
+            $("#Input_label").click(function() {
+                
+                $("#Input").toggle();
+                if($("#Expand_input_sign").text() == "-") {
+                    $("#Expand_input_sign").text("+");
+                    $("#Expand_input_text").text("Show input");
+                }
+                else {
+                    $("#Expand_input_sign").text("-");
+                    $("#Expand_input_text").text("Hide input");
+                }
+            });
+
+            $("#Input").bind('keydown', function (e) {
+                var code = e.keyCode || e.which;
+                if (code == 119 || code == 116) //F8 or F5
+                {
+                    e.preventDefault();
+                    Run();
+                }
+            });
+            
+
+            $("#Help").click(function () {
+                window.open("http://rextester.com/main/faq",'_blank');
+            });
+            
+            $("#Full").click(function () {
+                if(!GlobalEditor.hasFocus())
+                {
+                    GlobalEditor.focus()
+                }
+                GlobalEditor.setOption("fullScreen", !GlobalEditor.getOption("fullScreen"));
+            });
+            
+
+            $("#Save").click(function () {
+
+                $("#Link").replaceWith("<pre id=\"Link\" class=\"resultarea\">Title:<br/><br/>&nbsp;&nbsp;&nbsp;<input style=\"border-style:solid;border-width:1px;border-color:#FF9900;\" size=\"100\" type=\"text\" id=\"titleInput\"/>" +  ""  + "<br/><br/>&nbsp;&nbsp;&nbsp;<input type=\"button\" id=\"OKButton\" value=\"Ok\"/>&nbsp;&nbsp;&nbsp;<span style=\"color:red\" id=\"titleError\"></span><br/><br/><br/></pre>");
+                $("#titleInput").focus();
+                $('html, body').animate({ scrollTop: $("#Run").offset().top }, 200);
+                $("#OKButton").click(function() {
+                    if($("#titleInput").val().trim() == "")
+                    {
+                        $("#titleError").text("Title shouldn't be empty.");
+                        return;
+                    }
+                    if($("#titleInput").val().length > 100)
+                    {
+                        $("#titleError").text("Title shouldn't be longer than 100 characters.");
+                        return;
+                    }
+                    $("#Title").val($("#titleInput").val());
+                    $("#Privacy").val($('input[name=privacyInput]:checked').val());
+                    $("#PrivacyUsers").val($("#privacyUsersInput").val());
+                    
+                    
+                        $("#SavedOutput").val($("#Result").text());
+                    
+                    $("#WholeError").val($("#ErrorSpan").text());
+                    $("#WholeWarning").val($("#WarningSpan").text());
+                    $("#StatsToSave").val($("#Stats").text());
+                    Save(1);
+                });
+
+                
+            });
+            $("#Wall").click(function () {
+                $("#Link").replaceWith("<pre id=\"Link\" class=\"resultarea\">Title:<br/><br/>&nbsp;&nbsp;&nbsp;<input style=\"border-style:solid;border-width:1px;border-color:#FF9900;\" size=\"100\" type=\"text\" id=\"titleInput\"/>&nbsp;&nbsp;<br/><br/>Choose the wall:<br/><input type=\"radio\" name=\"wall_group\" value=\"1\" checked>&nbsp;My wall<br/><input type=\"radio\" name=\"wall_group\" value=\"2\">&nbsp;Code wall"  +  ""  +  "<br/><br/><input type=\"button\" id=\"OKButton\" value=\"Ok\"/>&nbsp;&nbsp;&nbsp;<span style=\"color:red\" id=\"titleError\"></span><br/><br/><br/></pre>");
+                $("#titleInput").focus();
+                $('html, body').animate({ scrollTop: $("#Run").offset().top }, 200);
+                $("#OKButton").click(function() {
+                    if($("#titleInput").val().trim() == "")
+                    {
+                        $("#titleError").text("Title shouldn't be empty.");
+                        return;
+                    }
+                    if($("#titleInput").val().length > 100)
+                    {
+                        $("#titleError").text("Title shouldn't be longer than 100 characters.");
+                        return;
+                    }
+                    $("#Title").val($("#titleInput").val());
+                    $("#Privacy").val($('input[name=privacyInput]:checked').val());
+                    
+                    $("#SavedOutput").val($("#Result").text());
+                    
+                    $("#WholeError").val($("#ErrorSpan").text());
+                    $("#WholeWarning").val($("#WarningSpan").text());
+                    $("#StatsToSave").val($("#Stats").text());
+                    if($('input[type=radio]:checked').val() == '1')
+                        Save(4);
+                    else
+                        Save(2);
+                });
+            });
+            
+            $("#Live").click(function () {
+
+                $("#Link").replaceWith("<pre id=\"Link\" class=\"resultarea\">Title:<br/><br/>&nbsp;&nbsp;&nbsp;<input style=\"border-style:solid;border-width:1px;border-color:#FF9900;\" size=\"100\" type=\"text\" id=\"titleInput\"/>"+  ""  +"<br/><br/>&nbsp;&nbsp;&nbsp;<input type=\"button\" id=\"OKButton\" value=\"Ok\"/>&nbsp;&nbsp;&nbsp;<span style=\"color:red\" id=\"titleError\"></span><br/><br/><br/></pre>");
+                $("#titleInput").focus();
+                $('html, body').animate({ scrollTop: $("#Run").offset().top }, 200);
+                $("#OKButton").click(function() {
+                    if($("#titleInput").val().trim() == "")
+                    {
+                        $("#titleError").text("Title shouldn't be empty.");
+                        return;
+                    }
+                    if($("#titleInput").val().length > 100)
+                    {
+                        $("#titleError").text("Title shouldn't be longer than 100 characters.");
+                        return;
+                    }
+                    $("#Title").val($("#titleInput").val());
+                    $("#Privacy").val($('input[name=privacyInput]:checked').val());
+                    $("#PrivacyUsers").val($("#privacyUsersInput").val());
+
+                    
+                    $("#SavedOutput").val($("#Result").text());
+                        
+                    $("#WholeError").val($("#ErrorSpan").text());
+                    $("#WholeWarning").val($("#WarningSpan").text());
+                    $("#StatsToSave").val($("#Stats").text());
+                    Save(3); 
+                });
+            });
+            
+            $("#Run").click(function () {
+                Run();
+            });
+            $("#LanguageChoiceWrapper").change(function () {
+                Reload();
+            });
+            $("#EditorChoiceWrapper").change(function () {
+                Reload();
+            });       
+            
+            
+
+            var AreYouSure = function() {
+                if (has_changes) {
+                        return confirm('Current changes will be lost, continue?');                
+                    } else 
+                    {
+                        return true;
+                    }
+            }
+            var Reload = function () {
+
+                
+                    if(!AreYouSure())
+                    {
+                        $("#LanguageChoiceWrapper").val("1");
+                        $("#EditorChoiceWrapper").val("1");
+                        return;
+                    }
+                
+
+                window.onbeforeunload = null;
+
+                var act = "";
+
+                if ($("#LanguageChoiceWrapper").val() == 15)
+                {
+                    act = "/l/nasm_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 1)
+                {
+                    act = "/l/csharp_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 7)
+                {
+                    act = "/l/cpp_online_compiler_gcc";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 27)
+                {
+                    act = "/l/cpp_online_compiler_clang";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 28)
+                {
+                    act = "/l/cpp_online_compiler_visual";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 6)
+                {
+                    act = "/l/c_online_compiler_gcc";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 26)
+                {
+                    act = "/l/c_online_compiler_clang";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 29)
+                {
+                    act = "/l/c_online_compiler_visual";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 18)
+                {
+                    act = "/l/common_lisp_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 30)
+                {
+                    act = "/l/d_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 3)
+                {
+                    act = "/l/fsharp_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 20)
+                {
+                    act = "/l/go_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 11)
+                {
+                    act = "/l/haskell_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 4)
+                {
+                    act = "/l/java_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 17)
+                {
+                    act = "/l/js_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 14)
+                {
+                    act = "/l/lua_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 23)
+                {
+                    act = "/l/nodejs_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 25)
+                {
+                    act = "/l/octave_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 10)
+                {
+                    act = "/l/objectivec_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 9)
+                {
+                    act = "/l/pascal_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 13)
+                {
+                    act = "/l/perl_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 8)
+                {
+                    act = "/l/php_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 19)
+                {
+                    act = "/l/prolog_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 5)
+                {
+                    act = "/l/python_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 24)
+                {
+                    act = "/l/python3_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 31)
+                {
+                    act = "/l/r_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 12)
+                {
+                    act = "/l/ruby_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 21)
+                {
+                    act = "/l/scala_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 22)
+                {
+                    act = "/l/scheme_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 16)
+                {
+                    act = "/l/sql_server_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 33)
+                {
+                    act = "/l/mysql_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 35)
+                {
+                    act = "/l/oracle_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 34)
+                {
+                    act = "/l/postgresql_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 32)
+                {
+                    act = "/l/tcl_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 2)
+                {
+                    act = "/l/visual_basic_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 36)
+                {
+                    act = "/l/client_side";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 37)
+                {
+                    act = "/l/swift_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 38)
+                {
+                    act = "/l/bash_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 39)
+                {
+                    act = "/l/ada_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 40)
+                {
+                    act = "/l/erlang_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 41)
+                {
+                    act = "/l/elixir_online_compiler";
+                }
+                else if ($("#LanguageChoiceWrapper").val() == 42)
+                {
+                    act = "/l/ocaml_online_compiler";
+                }
+                else
+                {
+                    act = "/l/csharp_online_compiler";
+                }
+                
+                $('#mainForm').attr('action', act);
+
+                $("#Input").val('');
+                $("#SavedOutput").val('');
+                $("#WholeError").val('');
+                $("#WholeWarning").val('');
+                $("#StatsToSave").val('');
+                $("#Title").val('');
+                $("#mainForm").submit();
+            };
+
+            $.ajaxSetup({
+                timeout: 60000,
+                error: function (request, status, err) {
+                    $("#Link").replaceWith("<pre id=\"Link\" class=\"resultarea\">Error occurred ("+err+"). Try again later.</pre>");
+                }
+            });
+        });
+
+        function Save (what) {
+            $('html, body').animate({ scrollTop: $("#Link").offset().top }, 500);
+
+            $("#Link").replaceWith("<pre id=\"Link\" class=\"resultarea\">Saving...</pre>");
+            $("#Warning").replaceWith("<div id=\"Warning\"></div>");
+            $("#Error").replaceWith("<div id=\"Error\"></div>");
+            $("#Result").replaceWith("<pre id=\"Result\" class=\"resultarea\"></pre>");
+            $("#Files").replaceWith("<pre id=\"Files\"></pre>");
+
+            $("#Program").val(GlobalEditor.getValue());
+
+            var serializedData = $("#mainForm").serialize();
+            if(what == 1)
+            {
+                $.post('/rundotnet/save', serializedData,
+                        function (data) {
+                            var obj = jQuery.parseJSON(data);
+                            if(obj.Errors != null)
+                            {
+                                $("#Link").replaceWith("<pre id=\"Link\" class=\"resultarea\"></pre>");
+                                $("#Error").replaceWith("<div id=\"Error\"><pre style=\"color: Red\" class=\"resultarea\">Error:</pre><pre id=\"ErrorSpan\" class=\"resultarea\"></pre></div>");
+                                $("#ErrorSpan").text(obj.Errors.replace(/\r/g, ""));
+                                return;
+                            }     
+                            has_changes = false;               
+                            window.onbeforeunload = null;
+                            if(obj.Updated == true)
+                                
+                            $("#Link").replaceWith("<pre id=\"Link\" class=\"resultarea\">Version created, updates saved</pre>");
+                                
+                        else        
+                                $("#Link").replaceWith("<pre id=\"Link\" class=\"resultarea\">Permanent link: <a href=\""+obj.Url+"\">"+obj.Url+"</a></pre>");
+                        }, 'text');
+            }
+            else if(what == 2)
+            {
+                $.post('/rundotnet/saveonwall', serializedData,
+                    function (data) {
+                        var obj = jQuery.parseJSON(data);
+                        if(obj.Errors != null)
+                        {
+                            $("#Link").replaceWith("<pre id=\"Link\" class=\"resultarea\"></pre>");
+                            $("#Error").replaceWith("<div id=\"Error\"><pre style=\"color: Red\" class=\"resultarea\">Error:</pre><pre id=\"ErrorSpan\" class=\"resultarea\"></pre></div>");
+                            $("#ErrorSpan").text(obj.Errors.replace(/\r/g, ""));
+                            return;
+                        }                        
+                        $("#Link").replaceWith("<pre id=\"Link\" class=\"resultarea\">This snippet is on a wall, permanent link: <a href=\""+obj.Url+"\">"+obj.Url+"</a></pre>");
+                    }, 'text');       
+            }
+            else if(what == 4)
+            {
+                $.post('/rundotnet/saveonpersonalwall', serializedData,
+                    function (data) {
+                        var obj = jQuery.parseJSON(data);
+                        if(obj.NotLoggedIn == true)
+                        {
+                            $("#Link").replaceWith("<pre id=\"Link\" class=\"resultarea\">Please <a href=\"login\">log in</a> first.</pre>");
+                            return;
+                        }
+                        else if(obj.Errors != null)
+                        {
+                            $("#Link").replaceWith("<pre id=\"Link\" class=\"resultarea\"></pre>");
+                            $("#Error").replaceWith("<div id=\"Error\"><pre style=\"color: Red\" class=\"resultarea\">Error:</pre><pre id=\"ErrorSpan\" class=\"resultarea\"></pre></div>");
+                            $("#ErrorSpan").text(obj.Errors.replace(/\r/g, ""));
+                            return;
+                        }                        
+                        $("#Link").replaceWith("<pre id=\"Link\" class=\"resultarea\">This snippet is on a wall, permanent link: <a href=\""+obj.Url+"\">"+obj.Url+"</a></pre>");
+                    }, 'text');       
+            }
+            
+            else if(what == 3)
+            {
+                $.post('/rundotnet/savelive', serializedData,
+                    function (data) {
+                        var obj = jQuery.parseJSON(data);
+                        if(obj.Errors != null)
+                        {
+                            $("#Link").replaceWith("<pre id=\"Link\" class=\"resultarea\"></pre>");
+                            $("#Error").replaceWith("<div id=\"Error\"><pre style=\"color: Red\" class=\"resultarea\">Error:</pre><pre id=\"ErrorSpan\" class=\"resultarea\"></pre></div>");
+                            $("#ErrorSpan").text(obj.Errors.replace(/\r/g, ""));
+                            return;
+                        }                        
+                        $("#Link").replaceWith("<pre id=\"Link\" class=\"resultarea\">Permanent live session created at <a href=\""+obj.Url+"\">"+obj.Url+"</a>\nAnyone who has rights to visit this link can edit code and see changes that others make in real-time.</pre>");
+                    }, 'text');       
+            }
+            
+        };
+
+        function RunClientSide () {
+            $('html, body').animate({ scrollTop: $("#Link").offset().top }, 500);
+            $("#Link").replaceWith("<pre id=\"Link\" class=\"resultarea\"></pre>");
+            $("#Warning").replaceWith("<div id=\"Warning\"></div>");
+            $("#Error").replaceWith("<div id=\"Error\"></div>");
+
+            $("#Program").val(GlobalEditor.getValue());
+
+            $("#ifr").replaceWith("<iframe style=\"width:100%;height:600px;\" name=\"ifr\" id=\"ifr\" frameBorder=\"0\" sandbox=\"allow-scripts allow-pointer-lock allow-same-origin allow-popups allow-modals allow-forms\" allowtransparency=\"true\"></iframe>");
+            var iframe = document.getElementById('ifr');
+            iframe = iframe.contentWindow || ( iframe.contentDocument.document || iframe.contentDocument);
+            iframe.document.open();
+            iframe.document.write($("#Program").val());
+            iframe.document.close();
+        }
+        function RunNonCS()
+        {
+            $('html, body').animate({ scrollTop: $("#Link").offset().top }, 500);
+
+            $("#Link").replaceWith("<pre id=\"Link\" class=\"resultarea\">Working...</pre>");
+            $("#Warning").replaceWith("<div id=\"Warning\"></div>");
+            $("#Error").replaceWith("<div id=\"Error\"></div>");
+            $("#Result").replaceWith("<pre id=\"Result\" class=\"resultarea\"></pre>");
+            $("#Files").replaceWith("<pre id=\"Files\"></pre>");
+
+            $("#Program").val(GlobalEditor.getValue());
+            
+            var serializedData = $("#mainForm").serialize();
+            $.post('/rundotnet/Run', serializedData,
+                    function (data) {
+                        $("#Link").replaceWith("<pre id=\"Link\" class=\"resultarea\"></pre>");                        
+                        var obj = jQuery.parseJSON(data);
+                        if(obj.Warnings != null)
+                        {
+                            $("#Warning").replaceWith("<div id=\"Warning\"><pre style=\"color: Orange\" class=\"resultarea\">Warning(s):</pre><pre id=\"WarningSpan\" class=\"resultarea\"></pre></div>");
+                            $("#WarningSpan").text(obj.Warnings.replace(/\r/g, ""));
+                        }
+                        if(obj.Errors != null)
+                        {
+                            $("#Error").replaceWith("<div id=\"Error\"><pre style=\"color: Red\" class=\"resultarea\">Error(s)"+''+":</pre><pre id=\"ErrorSpan\" class=\"resultarea\"></pre></div>");
+                            $("#ErrorSpan").text(obj.Errors.replace(/\r/g, ""));
+                        }
+
+                        
+                        if(obj.Result != null)
+                            $("#Result").text(obj.Result.replace(/\r/g, ""));
+                        
+                        if(obj.Files != null)
+                        {
+                            for (var key in obj.Files) 
+                            {             
+                                var img_div = $(document.createElement('div'));
+                                var img = $(document.createElement('img'));
+                                
+                                img.attr('src', "data:image/png;base64," + obj.Files[key]).height(600).width(700);
+                                
+                                img.appendTo(img_div);
+                                img_div.appendTo($('#Files'));
+                            }
+                        }
+                        $("#Stats").text(obj.Stats);
+
+                        $('html, body').animate({ scrollTop: $("#Run").offset().top }, 500);
+                    }, 'text');
+        }
+
+        function Run () {
+            
+                RunNonCS();
+            
+
+            
+            
+            
+        };
+
+        
+        $('body').keypress(function(e){
+
+            if(String.fromCharCode( e.which ) == ':') {
+                var cur = GlobalEditor.getCursor();
+                var ln = GlobalEditor.getValue().split("\n")[cur.line];
+                if(cur.ch > 0 && ln[cur.ch-1] == ':' ) {
+                    setTimeout(function() {
+                        CodeMirror.showHint(GlobalEditor, CodeMirror.hint.csharp, {async: true});
+                    }, 100)
+                }
+            }
+            if(String.fromCharCode( e.which ) == '>') {
+                var cur = GlobalEditor.getCursor();
+                var ln = GlobalEditor.getValue().split("\n")[cur.line];
+                if(cur.ch > 0 && ln[cur.ch-1] == '-' ) {
+                    setTimeout(function() {
+                        CodeMirror.showHint(GlobalEditor, CodeMirror.hint.csharp, {async: true});
+                    }, 100)
+                }
+            }
+
+            if(String.fromCharCode( e.which ) == '.') {
+                setTimeout(function() {
+                    CodeMirror.showHint(GlobalEditor, CodeMirror.hint.csharp, {async: true});
+                }, 100)
+            }
+        });
+         
+        
+
+        function keyEvent(cm, e) {
+            
+                if(!has_changes){
+                    window.onbeforeunload = function() {
+                        return 'Current changes will be lost, continue?';
+                    };
+                    has_changes = true;
+                }
+            
+            // Hook into F8 (and F5)
+            if ((e.keyCode == 116 || e.keyCode == 119) && e.type == 'keydown') {
+                e.stop();                
+                Run();
+            }
+        }
+        //]]>
+    </script>
+  
+    
+        <script type="text/javascript" src="./compile c# online_files/clike.js.descarga"></script>
+    
+    <script type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function () {
+            var editor = CodeMirror.fromTextArea(document.getElementById("Program"), {
+                //matchBrackets : true,
+                
+                    mode: "text/x-csharp",
+                
+                lineNumbers: true,
+                indentUnit: 4,
+                matchBrackets: true,
+                
+                        theme: "csharp",
+                    
+                onKeyEvent: keyEvent,
+            extraKeys: {
+                
+                        "Ctrl-Space" : "autocomplete",
+                
+                    "Tab": "indentMore", 
+                    "Shift-Tab": "indentLess",
+
+                    
+                        "F11": function(cm) {
+                                cm.setOption("fullScreen", !cm.getOption("fullScreen"));
+                            },
+                        "Esc": function(cm) {
+                                if (cm.getOption("fullScreen")) cm.setOption("fullScreen", false);
+                            }, 
+                        "F8": function(cm) {
+                                if (cm.getOption("fullScreen")) cm.setOption("fullScreen", false);
+                        }
+                    
+                }
+            });
+            GlobalEditor = editor;
+            
+            
+                    CodeMirror.commands.autocomplete = function (cm) {
+                        CodeMirror.showHint(cm, CodeMirror.hint.csharp, { async: true });
+                    };
+            
+        });
+    //]]>
+    </script>
+
+    
+    <table style="width: 100%; padding-right: 2em">
+        <tbody><tr>
+            <td align="right">
+                <a class="selectedlink" href="http://rextester.com/">Run Code</a>&nbsp;
+                |&nbsp;<a class="notselectedlink" href="http://rextester.com/codewall">Code Wall</a>&nbsp;
+                |&nbsp;<a class="notselectedlink" href="http://rextester.com/users">Users</a>&nbsp;
+                |&nbsp;<a class="notselectedlink" href="http://rextester.com/tester">Misc</a>&nbsp;
+                |&nbsp;<a class="notselectedlink" href="http://rextester.com/feedback">Feedback</a>&nbsp;
+                |&nbsp;<a class="notselectedlink" href="http://rextester.com/main">About</a>&nbsp;  
+                
+                    |&nbsp;<a class="notselectedlink" href="http://rextester.com/login">Login</a>&nbsp;
+                
+                    |&nbsp;<a href="http://rextester.com/theme" class="notselectedlink" title="Change theme">Theme</a>&nbsp;
+            </td>
+        </tr>
+    </tbody></table>
+    
+            <div id="ads_div" name="ads_div" style="background-color:mediumpurple;color:mediumpurple; position:relative;margin-top:105px;margin-bottom:-3000px;z-index:1000;float:right;width:130px;font-size:14px;">
+                <script async="" type="text/javascript" src="./compile c# online_files/carbon.js.descarga" id="_carbonads_js"></script><div id="carbonads"><span><span class="carbon-wrap"><a href="http://srv.carbonads.net/ads/click/x/GTND423YF6SDTKJLCAA4YKQWFTAIPK7WF6SILZ3JCEADL27IF6ADT5QKC6BDE5QNCTYDEK3EHJNCLSIZ?segment=placement:rextestercom;" class="carbon-img" target="_blank"><img src="./compile c# online_files/37199" alt="" border="0" height="100" width="130" style="max-width: 130px;"></a><a href="http://srv.carbonads.net/ads/click/x/GTND423YF6SDTKJLCAA4YKQWFTAIPK7WF6SILZ3JCEADL27IF6ADT5QKC6BDE5QNCTYDEK3EHJNCLSIZ?segment=placement:rextestercom;" class="carbon-text" target="_blank">Starting a New Project? Develop on Pantheon for Free</a></span><a href="http://carbonads.net/" class="carbon-poweredby" target="_blank">ads via Carbon</a></span></div>
+            </div>
+        
+    
+            <h2>
+                compile c# online 
+
+            </h2>
+            <form action="http://rextester.com/runcode" id="mainForm" method="post">
+        <div class="formcontent" style="padding-top: 0.5em; margin-bottom: 2em;">
+            <table style="width: 95%; margin:0;">
+                <tbody><tr>
+                    <td align="left">
+                        <span style="margin: 0 0.5em 0 0">Language:</span><select class="langdropdown" id="LanguageChoiceWrapper" name="LanguageChoiceWrapper"><option value="39">Ada</option>
+<option value="15">Assembly</option>
+<option value="38">Bash</option>
+<option selected="selected" value="1">C#</option>
+<option value="7">C++ (gcc)</option>
+<option value="27">C++ (clang)</option>
+<option value="28">C++ (vc++)</option>
+<option value="6">C (gcc)</option>
+<option value="26">C (clang)</option>
+<option value="29">C (vc)</option>
+<option value="36">Client Side</option>
+<option value="18">Common Lisp</option>
+<option value="30">D</option>
+<option value="41">Elixir</option>
+<option value="40">Erlang</option>
+<option value="3">F#</option>
+<option value="20">Go</option>
+<option value="11">Haskell</option>
+<option value="4">Java</option>
+<option value="17">Javascript</option>
+<option value="14">Lua</option>
+<option value="33">MySql</option>
+<option value="23">Node.js</option>
+<option value="42">Ocaml</option>
+<option value="25">Octave</option>
+<option value="10">Objective-C</option>
+<option value="35">Oracle</option>
+<option value="9">Pascal</option>
+<option value="13">Perl</option>
+<option value="8">Php</option>
+<option value="34">PostgreSQL</option>
+<option value="19">Prolog</option>
+<option value="5">Python</option>
+<option value="24">Python 3</option>
+<option value="31">R</option>
+<option value="12">Ruby</option>
+<option value="21">Scala</option>
+<option value="22">Scheme</option>
+<option value="16">Sql Server</option>
+<option value="37">Swift</option>
+<option value="32">Tcl</option>
+<option value="2">Visual Basic</option>
+</select>
+                        
+                        <span style="margin: 0 0.5em 0 0.5em">Editor:</span><select id="EditorChoiceWrapper" name="EditorChoiceWrapper"><option selected="selected" value="1">CodeMirror</option>
+<option value="2">EditArea</option>
+<option value="3">Simple</option>
+</select>
+                        
+                    </td>
+                </tr>
+            </tbody></table>
+            
+            
+                  <div style="width: 95%; margin-top:1em;">
+                        <textarea class="editor" spellcheck="false" cols="1000" id="Program" name="Program" rows="30" style="width: 100%; resize: none; display: none;">//Rextester.Program.Main is the entry point for your code. Don't change it.
+//Compiler version 4.0.30319.17929 for Microsoft (R) .NET Framework 4.5
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
+
+namespace Rextester
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            //Your code goes here
+            Console.WriteLine("Hello, world!");
+        }
+    }
+}</textarea><div class="CodeMirror cm-s-csharp CodeMirror-focused"><div style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 252px; left: 325.766px;"><textarea autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" style="position: absolute; padding: 0px; width: 1000px; height: 1em; outline: none; font-size: 4px;"></textarea></div><div class="CodeMirror-hscrollbar" style="left: 29px;"><div style="height: 1px; width: 0px;"></div></div><div class="CodeMirror-vscrollbar"><div style="width: 1px; height: 0px;"></div></div><div class="CodeMirror-scrollbar-filler"></div><div class="CodeMirror-gutter-filler"></div><div class="CodeMirror-scroll" tabindex="-1"><div class="CodeMirror-sizer" style="min-width: 573.047px; margin-left: 29px; min-height: 346px;"><div style="position: relative; top: 0px;"><div class="CodeMirror-lines"><div style="position: relative; outline: none;"><div class="CodeMirror-measure"></div><div style="position: relative; z-index: 1; display: none;"><div class="CodeMirror-selected" style="position: absolute; left: 118.25px; top: 247px; width: 157.094px; height: 13px;"></div></div><div class="CodeMirror-code"><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">1</div></div><pre><span class="cm-comment">//Rextester.Program.Main is the entry point for your code. Don't change it.</span></pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">2</div></div><pre><span class="cm-comment">//Compiler version 4.0.30319.17929 for Microsoft (R) .NET Framework 4.5</span></pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">3</div></div><pre> </pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">4</div></div><pre><span class="cm-keyword">using</span> <span class="cm-variable">System</span>;</pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">5</div></div><pre><span class="cm-keyword">using</span> <span class="cm-variable">System</span>.<span class="cm-variable">Collections</span>.<span class="cm-variable">Generic</span>;</pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">6</div></div><pre><span class="cm-keyword">using</span> <span class="cm-variable">System</span>.<span class="cm-variable">Linq</span>;</pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">7</div></div><pre><span class="cm-keyword">using</span> <span class="cm-variable">System</span>.<span class="cm-variable">Text</span>.<span class="cm-variable">RegularExpressions</span>;</pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">8</div></div><pre> </pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">9</div></div><pre><span class="cm-keyword">namespace</span> <span class="cm-variable">Rextester</span></pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">10</div></div><pre>{</pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">11</div></div><pre>    <span class="cm-keyword">public</span> <span class="cm-keyword">class</span> <span class="cm-variable">Program</span></pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">12</div></div><pre>    {</pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">13</div></div><pre>        <span class="cm-keyword">public</span> <span class="cm-keyword">static</span> <span class="cm-keyword">void</span> <span class="cm-variable">Main</span>(<span class="cm-builtin">string</span>[] <span class="cm-variable">args</span>)</pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">14</div></div><pre>        {</pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">15</div></div><pre>            <span class="cm-keyword">var</span> <span class="cm-variable">matrix</span> <span class="cm-operator">=</span> <span class="cm-keyword">new</span> <span class="cm-builtin">double</span>[<span class="cm-number">2</span>,<span class="cm-number">3</span>]{{<span class="cm-number">1</span>,<span class="cm-number">2</span>,<span class="cm-number">3</span>},{<span class="cm-number">4</span>,<span class="cm-number">5</span>,<span class="cm-number">6</span>}};</pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">16</div></div><pre>            </pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">17</div></div><pre>            <span class="cm-keyword">var</span> <span class="cm-variable">array</span> <span class="cm-operator">=</span> <span class="cm-keyword">new</span> <span class="cm-builtin">double</span>[<span class="cm-number">2</span>][];</pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">18</div></div><pre>            </pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">19</div></div><pre>            <span class="cm-keyword">for</span>(<span class="cm-keyword">var</span> <span class="cm-variable">i</span> <span class="cm-operator">=</span> <span class="cm-number">0</span>; <span class="cm-variable">i</span> <span class="cm-operator">&lt;</span> <span class="cm-number">2</span>; <span class="cm-variable">i</span><span class="cm-operator">++</span>)</pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">20</div></div><pre>                <span class="cm-variable">array</span>[<span class="cm-variable">i</span>] <span class="cm-operator">=</span> <span class="cm-keyword">new</span> <span class="cm-builtin">double</span>[<span class="cm-number">3</span>];</pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">21</div></div><pre>            </pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">22</div></div><pre>            </pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">23</div></div><pre>            </pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">24</div></div><pre>        }</pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">25</div></div><pre>    }</pre></div><div style="position: relative;"><div style="position: absolute; left: -29px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 20px;">26</div></div><pre>}</pre></div></div><div class="CodeMirror-cursor" style="left: 296.766px; top: 247px; height: 13px; visibility: hidden;"> </div><div class="CodeMirror-cursor CodeMirror-secondarycursor" style="display: none; visibility: hidden;"> </div></div></div></div></div><div style="position: absolute; height: 30px; width: 1px; top: 346px;"></div><div class="CodeMirror-gutters" style="height: 500px;"><div class="CodeMirror-gutter CodeMirror-linenumbers" style="width: 28px;"></div></div></div></div>
+                  </div>
+              
+                <div style="width: 94.5%; margin-top:0.5em;margin-left:0;">                            
+                    <textarea spellcheck="false" cols="1000" id="Input" name="Input" rows="5" class="input_box" style="width: 100%;display:none;"></textarea>
+                </div>
+            
+            <table style="width: 95%; margin-top:0.5em;">
+                <tbody><tr>
+                    <td align="left">
+                        <input id="Run" type="button" value="Run it (F8)">
+                        
+                        <input style="margin-left:1em" id="Save" type="button" value="Save it">    
+                        <input id="ShowWarnings" name="ShowWarnings" style="vertical-align: middle; margin-left: 1.5em;" type="checkbox" value="true"><input name="ShowWarnings" type="hidden" value="false">
+                                <label for="ShowWarnings" style="margin-left: 0.2em;font-size: 0.85em;vertical-align: middle;">Show compiler warnings</label>
+                        <span id="Input_label" style="margin-left: 0.5em;font-size: 0.85em; cursor:pointer;">[&nbsp;<span id="Expand_input_sign" style="font-size: 0.85em;">+</span>&nbsp;]&nbsp;<span id="Expand_input_text">Show input</span></span>
+                        
+                    </td>
+                    <td align="right">
+                        
+                            <input style="margin-left:1em;" id="Live" type="button" value="Live cooperation">   
+                            
+                        <input style="margin-left:1em;" id="Wall" type="button" value="Put on a wall">
+                        
+                            <input title="Fullscreen (F11), Esc to exit" style="margin-left:1em;" id="Full" type="button" value="F">
+                        
+                        <input style="margin-left:1em;" id="Help" type="button" value="?">
+                        
+                    </td>                  
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <div style="margin-top: 0.8em;font-size: 0.85em;" id="Stats">Compilation time: 0,12 sec, absolute running time: 0,09 sec, cpu time: 0,06 sec, average memory usage: 13 Mb, average nr of threads: 2</div>
+                    </td>
+                </tr>
+            </tbody></table>
+
+            <input id="Privacy" name="Privacy" type="hidden">
+            <input id="PrivacyUsers" name="PrivacyUsers" type="hidden">
+            <input id="Title" name="Title" type="hidden">
+            <input id="SavedOutput" name="SavedOutput" type="hidden">
+            <input id="WholeError" name="WholeError" type="hidden">
+            <input id="WholeWarning" name="WholeWarning" type="hidden">
+            <input id="StatsToSave" name="StatsToSave" type="hidden">
+            <input id="CodeGuid" name="CodeGuid" type="hidden" value="">
+            <input id="IsInEditMode" name="IsInEditMode" type="hidden" value="False">
+            <input id="IsLive" name="IsLive" type="hidden" value="False">
+            
+        </div>
+
+        </form>
+    <pre id="Link" class="resultarea"></pre>
+
+    <div id="Warning"></div>
+
+    <div id="Error"></div> 
+
+    
+        <pre id="Result" class="resultarea"></pre>
+        <pre id="Files"></pre>
+    
+
+
+</body></html>

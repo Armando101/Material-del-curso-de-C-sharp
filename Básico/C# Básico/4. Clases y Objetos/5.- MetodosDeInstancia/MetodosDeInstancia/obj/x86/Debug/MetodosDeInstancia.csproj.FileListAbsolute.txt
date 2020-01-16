@@ -1,0 +1,5 @@
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\4. Clases y Objetos\5.- MetodosDeInstancia\MetodosDeInstancia\bin\Debug\MetodosDeInstancia.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\4. Clases y Objetos\5.- MetodosDeInstancia\MetodosDeInstancia\bin\Debug\MetodosDeInstancia.pdb
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\4. Clases y Objetos\5.- MetodosDeInstancia\MetodosDeInstancia\obj\x86\Debug\MetodosDeInstancia.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\4. Clases y Objetos\5.- MetodosDeInstancia\MetodosDeInstancia\obj\x86\Debug\MetodosDeInstancia.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\4. Clases y Objetos\5.- MetodosDeInstancia\MetodosDeInstancia\obj\x86\Debug\MetodosDeInstancia.pdb

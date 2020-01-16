@@ -1,0 +1,7 @@
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\6. Colecciones\ContadorPalabras\ContadorPalabras\bin\Debug\ContadorPalabras.exe
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\6. Colecciones\ContadorPalabras\ContadorPalabras\bin\Debug\ContadorPalabras.pdb
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\6. Colecciones\ContadorPalabras\ContadorPalabras\obj\x86\Debug\ContadorPalabras.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\6. Colecciones\ContadorPalabras\ContadorPalabras\obj\x86\Debug\ContadorPalabras.exe
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\6. Colecciones\ContadorPalabras\ContadorPalabras\obj\x86\Debug\ContadorPalabras.pdb
+E:\ProtecoStuff\CursoC#Enero2017\C# Intermedio\5. Colecciones\ContadorPalabras\ContadorPalabras\obj\x86\Debug\ContadorPalabras.exe
+E:\ProtecoStuff\CursoC#Enero2017\C# Intermedio\5. Colecciones\ContadorPalabras\ContadorPalabras\obj\x86\Debug\ContadorPalabras.pdb

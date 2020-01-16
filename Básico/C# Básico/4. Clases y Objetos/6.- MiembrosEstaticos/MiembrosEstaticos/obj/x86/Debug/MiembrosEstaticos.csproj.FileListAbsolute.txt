@@ -1,0 +1,5 @@
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\4. Clases y Objetos\6.- MiembrosEstaticos\MiembrosEstaticos\bin\Debug\MiembrosEstaticos.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\4. Clases y Objetos\6.- MiembrosEstaticos\MiembrosEstaticos\bin\Debug\MiembrosEstaticos.pdb
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\4. Clases y Objetos\6.- MiembrosEstaticos\MiembrosEstaticos\obj\x86\Debug\MiembrosEstaticos.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\4. Clases y Objetos\6.- MiembrosEstaticos\MiembrosEstaticos\obj\x86\Debug\MiembrosEstaticos.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\4. Clases y Objetos\6.- MiembrosEstaticos\MiembrosEstaticos\obj\x86\Debug\MiembrosEstaticos.pdb

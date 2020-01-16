@@ -1,0 +1,5 @@
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\4. Clases y Objetos\1.- Clases\Clases\bin\Debug\Clases.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\4. Clases y Objetos\1.- Clases\Clases\bin\Debug\Clases.pdb
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\4. Clases y Objetos\1.- Clases\Clases\obj\x86\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\4. Clases y Objetos\1.- Clases\Clases\obj\x86\Debug\Clases.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\4. Clases y Objetos\1.- Clases\Clases\obj\x86\Debug\Clases.pdb

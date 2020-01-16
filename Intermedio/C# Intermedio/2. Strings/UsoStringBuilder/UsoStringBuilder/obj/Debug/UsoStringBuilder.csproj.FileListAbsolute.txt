@@ -1,0 +1,1 @@
+E:\ProtecoStuff\CursoC#Enero2017\C# Intermedio\2. Strings\UsoStringBuilder\UsoStringBuilder\bin\Debug\UsoStringBuilder.exe.config

@@ -1,0 +1,7 @@
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\4. Tipos predefinidos y control de flujo\TiposDeReferencia\TiposDeReferencia\bin\Debug\TiposDeReferencia.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\4. Tipos predefinidos y control de flujo\TiposDeReferencia\TiposDeReferencia\bin\Debug\TiposDeReferencia.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\4. Tipos predefinidos y control de flujo\TiposDeReferencia\TiposDeReferencia\obj\x86\Debug\TiposDeReferencia.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\4. Tipos predefinidos y control de flujo\TiposDeReferencia\TiposDeReferencia\obj\x86\Debug\TiposDeReferencia.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\4. Tipos predefinidos y control de flujo\TiposDeReferencia\TiposDeReferencia\obj\x86\Debug\TiposDeReferencia.pdb
+E:\ProtecoStuff\CursoC#Enero2017\C# Básico\4. Tipos predefinidos y control de flujo\TiposDeReferencia\TiposDeReferencia\obj\x86\Debug\TiposDeReferencia.exe
+E:\ProtecoStuff\CursoC#Enero2017\C# Básico\4. Tipos predefinidos y control de flujo\TiposDeReferencia\TiposDeReferencia\obj\x86\Debug\TiposDeReferencia.pdb

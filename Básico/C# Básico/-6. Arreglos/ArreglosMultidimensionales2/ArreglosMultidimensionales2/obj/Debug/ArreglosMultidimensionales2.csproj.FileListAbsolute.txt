@@ -1,0 +1,6 @@
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\7. Arreglos y IEnumerable\ArreglosMultidimensionales2\ArreglosMultidimensionales2\bin\Debug\ArreglosMultidimensionales2.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\7. Arreglos y IEnumerable\ArreglosMultidimensionales2\ArreglosMultidimensionales2\bin\Debug\ArreglosMultidimensionales2.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\7. Arreglos y IEnumerable\ArreglosMultidimensionales2\ArreglosMultidimensionales2\bin\Debug\ArreglosMultidimensionales2.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\7. Arreglos y IEnumerable\ArreglosMultidimensionales2\ArreglosMultidimensionales2\obj\Debug\ArreglosMultidimensionales2.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\7. Arreglos y IEnumerable\ArreglosMultidimensionales2\ArreglosMultidimensionales2\obj\Debug\ArreglosMultidimensionales2.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\7. Arreglos y IEnumerable\ArreglosMultidimensionales2\ArreglosMultidimensionales2\obj\Debug\ArreglosMultidimensionales2.pdb

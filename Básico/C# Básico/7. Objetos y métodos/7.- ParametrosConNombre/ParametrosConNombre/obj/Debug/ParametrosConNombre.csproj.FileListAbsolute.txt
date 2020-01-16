@@ -1,0 +1,12 @@
+C:\Users\arman\Documents\SharpDevelop Projects\ParametrosConNombre\ParametrosConNombre\obj\Debug\ParametrosConNombre.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\SharpDevelop Projects\ParametrosConNombre\ParametrosConNombre\bin\Debug\ParametrosConNombre.exe.config
+C:\Users\arman\Documents\SharpDevelop Projects\ParametrosConNombre\ParametrosConNombre\bin\Debug\ParametrosConNombre.exe
+C:\Users\arman\Documents\SharpDevelop Projects\ParametrosConNombre\ParametrosConNombre\bin\Debug\ParametrosConNombre.pdb
+C:\Users\arman\Documents\SharpDevelop Projects\ParametrosConNombre\ParametrosConNombre\obj\Debug\ParametrosConNombre.exe
+C:\Users\arman\Documents\SharpDevelop Projects\ParametrosConNombre\ParametrosConNombre\obj\Debug\ParametrosConNombre.pdb
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\7. Objetos y métodos\7.- ParametrosConNombre\ParametrosConNombre\bin\Debug\ParametrosConNombre.exe.config
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\7. Objetos y métodos\7.- ParametrosConNombre\ParametrosConNombre\bin\Debug\ParametrosConNombre.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\7. Objetos y métodos\7.- ParametrosConNombre\ParametrosConNombre\bin\Debug\ParametrosConNombre.pdb
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\7. Objetos y métodos\7.- ParametrosConNombre\ParametrosConNombre\obj\Debug\ParametrosConNombre.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\7. Objetos y métodos\7.- ParametrosConNombre\ParametrosConNombre\obj\Debug\ParametrosConNombre.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\7. Objetos y métodos\7.- ParametrosConNombre\ParametrosConNombre\obj\Debug\ParametrosConNombre.pdb

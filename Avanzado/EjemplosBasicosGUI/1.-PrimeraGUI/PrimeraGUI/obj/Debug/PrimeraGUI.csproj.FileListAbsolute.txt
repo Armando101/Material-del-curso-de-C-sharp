@@ -1,0 +1,27 @@
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\PrimeraGUI\PrimeraGUI\bin\Debug\PrimeraGUI.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\PrimeraGUI\PrimeraGUI\bin\Debug\PrimeraGUI.exe
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\PrimeraGUI\PrimeraGUI\bin\Debug\PrimeraGUI.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\PrimeraGUI\PrimeraGUI\obj\Debug\PrimeraGUI.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\PrimeraGUI\PrimeraGUI\obj\Debug\PrimeraGUI.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\PrimeraGUI\PrimeraGUI\obj\Debug\PrimeraGUI.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\PrimeraGUI\PrimeraGUI\obj\Debug\PrimeraGUI.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\PrimeraGUI\PrimeraGUI\obj\Debug\PrimeraGUI.exe
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\PrimeraGUI\PrimeraGUI\obj\Debug\PrimeraGUI.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\1.- Intro\PrimeraGUI\PrimeraGUI\bin\Debug\PrimeraGUI.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\1.- Intro\PrimeraGUI\PrimeraGUI\obj\Debug\PrimeraGUI.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\1.- Intro\PrimeraGUI\PrimeraGUI\obj\Debug\PrimeraGUI.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\1.- Intro\PrimeraGUI\PrimeraGUI\bin\Debug\PrimeraGUI.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\1.- Intro\PrimeraGUI\PrimeraGUI\bin\Debug\PrimeraGUI.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\1.- Intro\PrimeraGUI\PrimeraGUI\obj\Debug\PrimeraGUI.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\1.- Intro\PrimeraGUI\PrimeraGUI\obj\Debug\PrimeraGUI.Form1.resources
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\1.- Intro\PrimeraGUI\PrimeraGUI\obj\Debug\PrimeraGUI.Properties.Resources.resources
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\1.- Intro\PrimeraGUI\PrimeraGUI\obj\Debug\PrimeraGUI.csproj.GenerateResource.Cache
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\2. Intro\PrimeraGUI\PrimeraGUI\bin\Debug\PrimeraGUI.exe.config
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\2. Intro\PrimeraGUI\PrimeraGUI\bin\Debug\PrimeraGUI.exe
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\2. Intro\PrimeraGUI\PrimeraGUI\bin\Debug\PrimeraGUI.pdb
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\2. Intro\PrimeraGUI\PrimeraGUI\obj\Debug\PrimeraGUI.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\2. Intro\PrimeraGUI\PrimeraGUI\obj\Debug\PrimeraGUI.Form1.resources
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\2. Intro\PrimeraGUI\PrimeraGUI\obj\Debug\PrimeraGUI.Properties.Resources.resources
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\2. Intro\PrimeraGUI\PrimeraGUI\obj\Debug\PrimeraGUI.csproj.GenerateResource.Cache
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\2. Intro\PrimeraGUI\PrimeraGUI\obj\Debug\PrimeraGUI.exe
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\2. Intro\PrimeraGUI\PrimeraGUI\obj\Debug\PrimeraGUI.pdb

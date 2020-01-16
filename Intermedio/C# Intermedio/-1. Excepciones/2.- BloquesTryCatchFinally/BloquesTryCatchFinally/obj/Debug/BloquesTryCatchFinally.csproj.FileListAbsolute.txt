@@ -1,0 +1,9 @@
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\1. Excepciones\BloquesTryCatchFinally\BloquesTryCatchFinally\bin\Debug\BloquesTryCatchFinally.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\1. Excepciones\BloquesTryCatchFinally\BloquesTryCatchFinally\bin\Debug\BloquesTryCatchFinally.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\1. Excepciones\BloquesTryCatchFinally\BloquesTryCatchFinally\bin\Debug\BloquesTryCatchFinally.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\1. Excepciones\BloquesTryCatchFinally\BloquesTryCatchFinally\obj\Debug\BloquesTryCatchFinally.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\1. Excepciones\BloquesTryCatchFinally\BloquesTryCatchFinally\obj\Debug\BloquesTryCatchFinally.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\1. Excepciones\BloquesTryCatchFinally\BloquesTryCatchFinally\obj\Debug\BloquesTryCatchFinally.pdb
+E:\ProtecoStuff\CursoC#Enero2017\C# Intermedio\1. Excepciones\BloquesTryCatchFinally\BloquesTryCatchFinally\bin\Debug\BloquesTryCatchFinally.exe.config
+E:\ProtecoStuff\CursoC#Enero2017\C# Intermedio\1. Excepciones\BloquesTryCatchFinally\BloquesTryCatchFinally\obj\Debug\BloquesTryCatchFinally.exe
+E:\ProtecoStuff\CursoC#Enero2017\C# Intermedio\1. Excepciones\BloquesTryCatchFinally\BloquesTryCatchFinally\obj\Debug\BloquesTryCatchFinally.pdb

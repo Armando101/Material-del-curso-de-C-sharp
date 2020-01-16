@@ -1,0 +1,10 @@
+C:\Users\Jorge Luis\Documents\Proteco\Intersemestrales\C# 2\C# Básico\10. Objetos y métodos\ComparacionDeObjetos\ComparacionDeObjetos\bin\Debug\ComparacionDeObjetos.exe
+C:\Users\Jorge Luis\Documents\Proteco\Intersemestrales\C# 2\C# Básico\10. Objetos y métodos\ComparacionDeObjetos\ComparacionDeObjetos\bin\Debug\ComparacionDeObjetos.pdb
+C:\Users\Jorge Luis\Documents\Proteco\Intersemestrales\C# 2\C# Básico\10. Objetos y métodos\ComparacionDeObjetos\ComparacionDeObjetos\obj\x86\Debug\ComparacionDeObjetos.csprojResolveAssemblyReference.cache
+C:\Users\Jorge Luis\Documents\Proteco\Intersemestrales\C# 2\C# Básico\10. Objetos y métodos\ComparacionDeObjetos\ComparacionDeObjetos\obj\x86\Debug\ComparacionDeObjetos.exe
+C:\Users\Jorge Luis\Documents\Proteco\Intersemestrales\C# 2\C# Básico\10. Objetos y métodos\ComparacionDeObjetos\ComparacionDeObjetos\obj\x86\Debug\ComparacionDeObjetos.pdb
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\7. Objetos y métodos\2.- ComparacionDeObjetos\ComparacionDeObjetos\bin\Debug\ComparacionDeObjetos.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\7. Objetos y métodos\2.- ComparacionDeObjetos\ComparacionDeObjetos\bin\Debug\ComparacionDeObjetos.pdb
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\7. Objetos y métodos\2.- ComparacionDeObjetos\ComparacionDeObjetos\obj\x86\Debug\ComparacionDeObjetos.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\7. Objetos y métodos\2.- ComparacionDeObjetos\ComparacionDeObjetos\obj\x86\Debug\ComparacionDeObjetos.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\7. Objetos y métodos\2.- ComparacionDeObjetos\ComparacionDeObjetos\obj\x86\Debug\ComparacionDeObjetos.pdb

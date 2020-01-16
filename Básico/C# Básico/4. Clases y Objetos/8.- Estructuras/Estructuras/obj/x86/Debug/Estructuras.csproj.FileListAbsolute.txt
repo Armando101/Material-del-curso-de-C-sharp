@@ -1,0 +1,6 @@
+C:\Users\Dell\Downloads\C#\Básico\C# Básico\4. Clases y Objetos\8.- Estructuras\Estructuras\bin\Debug\Estructuras.exe
+C:\Users\Dell\Downloads\C#\Básico\C# Básico\4. Clases y Objetos\8.- Estructuras\Estructuras\bin\Debug\Estructuras.pdb
+C:\Users\Dell\Downloads\C#\Básico\C# Básico\4. Clases y Objetos\8.- Estructuras\Estructuras\obj\x86\Debug\Estructuras.csprojAssemblyReference.cache
+C:\Users\Dell\Downloads\C#\Básico\C# Básico\4. Clases y Objetos\8.- Estructuras\Estructuras\obj\x86\Debug\Estructuras.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\C#\Básico\C# Básico\4. Clases y Objetos\8.- Estructuras\Estructuras\obj\x86\Debug\Estructuras.exe
+C:\Users\Dell\Downloads\C#\Básico\C# Básico\4. Clases y Objetos\8.- Estructuras\Estructuras\obj\x86\Debug\Estructuras.pdb

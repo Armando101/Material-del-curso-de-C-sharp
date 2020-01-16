@@ -1,0 +1,12 @@
+C:\Users\Enrique\Downloads\Compressed\csharp-examples-master\C# Intermedio\Inicial\1. Delegados, Lambdas y Eventos\DelegadosPredefinidos\DelegadosPredefinidos\bin\Debug\DelegadosPredefinidos.exe.config
+C:\Users\Enrique\Downloads\Compressed\csharp-examples-master\C# Intermedio\Inicial\1. Delegados, Lambdas y Eventos\DelegadosPredefinidos\DelegadosPredefinidos\bin\Debug\DelegadosPredefinidos.exe
+C:\Users\Enrique\Downloads\Compressed\csharp-examples-master\C# Intermedio\Inicial\1. Delegados, Lambdas y Eventos\DelegadosPredefinidos\DelegadosPredefinidos\bin\Debug\DelegadosPredefinidos.pdb
+C:\Users\Enrique\Downloads\Compressed\csharp-examples-master\C# Intermedio\Inicial\1. Delegados, Lambdas y Eventos\DelegadosPredefinidos\DelegadosPredefinidos\obj\Debug\DelegadosPredefinidos.csprojResolveAssemblyReference.cache
+C:\Users\Enrique\Downloads\Compressed\csharp-examples-master\C# Intermedio\Inicial\1. Delegados, Lambdas y Eventos\DelegadosPredefinidos\DelegadosPredefinidos\obj\Debug\DelegadosPredefinidos.exe
+C:\Users\Enrique\Downloads\Compressed\csharp-examples-master\C# Intermedio\Inicial\1. Delegados, Lambdas y Eventos\DelegadosPredefinidos\DelegadosPredefinidos\obj\Debug\DelegadosPredefinidos.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\DelegadosPredefinidos\DelegadosPredefinidos\bin\Debug\DelegadosPredefinidos.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\DelegadosPredefinidos\DelegadosPredefinidos\obj\Debug\DelegadosPredefinidos.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\DelegadosPredefinidos\DelegadosPredefinidos\obj\Debug\DelegadosPredefinidos.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\DelegadosPredefinidos(AfterLambda)\DelegadosPredefinidos\bin\Debug\DelegadosPredefinidos.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\DelegadosPredefinidos(AfterLambda)\DelegadosPredefinidos\obj\Debug\DelegadosPredefinidos.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\DelegadosPredefinidos(AfterLambda)\DelegadosPredefinidos\obj\Debug\DelegadosPredefinidos.pdb

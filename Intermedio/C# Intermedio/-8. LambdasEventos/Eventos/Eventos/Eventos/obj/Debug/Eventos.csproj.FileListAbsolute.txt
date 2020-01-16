@@ -1,0 +1,6 @@
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\-8. Lambdas\Eventos\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\-8. Lambdas\Eventos\Eventos\bin\Debug\Eventos.exe
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\-8. Lambdas\Eventos\Eventos\bin\Debug\Eventos.pdb
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\-8. Lambdas\Eventos\Eventos\obj\Debug\Eventos.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\-8. Lambdas\Eventos\Eventos\obj\Debug\Eventos.exe
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\-8. Lambdas\Eventos\Eventos\obj\Debug\Eventos.pdb

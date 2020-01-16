@@ -1,0 +1,6 @@
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\7. Concurrencia\HiloConParametros\HiloConParametros\obj\Debug\HiloConParametros.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\7. Concurrencia\HiloConParametros\HiloConParametros\bin\Debug\HiloConParametros.exe.config
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\7. Concurrencia\HiloConParametros\HiloConParametros\bin\Debug\HiloConParametros.exe
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\7. Concurrencia\HiloConParametros\HiloConParametros\bin\Debug\HiloConParametros.pdb
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\7. Concurrencia\HiloConParametros\HiloConParametros\obj\Debug\HiloConParametros.exe
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\7. Concurrencia\HiloConParametros\HiloConParametros\obj\Debug\HiloConParametros.pdb

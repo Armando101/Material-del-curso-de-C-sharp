@@ -1,0 +1,13 @@
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\5. Clases y Objetos\TiposReferenciaVsTiposValor\TiposReferenciaVsTiposValor\bin\Debug\TiposReferenciaVsTiposValor.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\5. Clases y Objetos\TiposReferenciaVsTiposValor\TiposReferenciaVsTiposValor\bin\Debug\TiposReferenciaVsTiposValor.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\5. Clases y Objetos\TiposReferenciaVsTiposValor\TiposReferenciaVsTiposValor\obj\x86\Debug\TiposReferenciaVsTiposValor.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\5. Clases y Objetos\TiposReferenciaVsTiposValor\TiposReferenciaVsTiposValor\obj\x86\Debug\TiposReferenciaVsTiposValor.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\5. Clases y Objetos\TiposReferenciaVsTiposValor\TiposReferenciaVsTiposValor\obj\x86\Debug\TiposReferenciaVsTiposValor.pdb
+E:\ProtecoStuff\CursoC#Enero2017\C# Básico\5. Clases y Objetos\TiposReferenciaVsTiposValor\TiposReferenciaVsTiposValor\obj\x86\Debug\TiposReferenciaVsTiposValor.exe
+E:\ProtecoStuff\CursoC#Enero2017\C# Básico\5. Clases y Objetos\TiposReferenciaVsTiposValor\TiposReferenciaVsTiposValor\obj\x86\Debug\TiposReferenciaVsTiposValor.pdb
+C:\Users\Dell\Downloads\C#\Básico\C# Básico\4. Clases y Objetos\7.- TiposReferenciaVsTiposValor\TiposReferenciaVsTiposValor\bin\Debug\TiposReferenciaVsTiposValor.exe
+C:\Users\Dell\Downloads\C#\Básico\C# Básico\4. Clases y Objetos\7.- TiposReferenciaVsTiposValor\TiposReferenciaVsTiposValor\bin\Debug\TiposReferenciaVsTiposValor.pdb
+C:\Users\Dell\Downloads\C#\Básico\C# Básico\4. Clases y Objetos\7.- TiposReferenciaVsTiposValor\TiposReferenciaVsTiposValor\obj\x86\Debug\TiposReferenciaVsTiposValor.csprojAssemblyReference.cache
+C:\Users\Dell\Downloads\C#\Básico\C# Básico\4. Clases y Objetos\7.- TiposReferenciaVsTiposValor\TiposReferenciaVsTiposValor\obj\x86\Debug\TiposReferenciaVsTiposValor.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\C#\Básico\C# Básico\4. Clases y Objetos\7.- TiposReferenciaVsTiposValor\TiposReferenciaVsTiposValor\obj\x86\Debug\TiposReferenciaVsTiposValor.exe
+C:\Users\Dell\Downloads\C#\Básico\C# Básico\4. Clases y Objetos\7.- TiposReferenciaVsTiposValor\TiposReferenciaVsTiposValor\obj\x86\Debug\TiposReferenciaVsTiposValor.pdb

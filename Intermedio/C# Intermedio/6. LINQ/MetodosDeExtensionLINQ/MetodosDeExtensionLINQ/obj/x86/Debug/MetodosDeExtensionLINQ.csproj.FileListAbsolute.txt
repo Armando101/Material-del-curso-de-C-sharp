@@ -1,0 +1,10 @@
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\8. LINQ\MetodosDeExtensionLINQ\MetodosDeExtensionLINQ\bin\Debug\MetodosDeExtensionLINQ.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\8. LINQ\MetodosDeExtensionLINQ\MetodosDeExtensionLINQ\bin\Debug\MetodosDeExtensionLINQ.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\8. LINQ\MetodosDeExtensionLINQ\MetodosDeExtensionLINQ\obj\x86\Debug\MetodosDeExtensionLINQ.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\8. LINQ\MetodosDeExtensionLINQ\MetodosDeExtensionLINQ\obj\x86\Debug\MetodosDeExtensionLINQ.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\8. LINQ\MetodosDeExtensionLINQ\MetodosDeExtensionLINQ\obj\x86\Debug\MetodosDeExtensionLINQ.pdb
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\6. LINQ\MetodosDeExtensionLINQ\MetodosDeExtensionLINQ\bin\Debug\MetodosDeExtensionLINQ.exe
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\6. LINQ\MetodosDeExtensionLINQ\MetodosDeExtensionLINQ\bin\Debug\MetodosDeExtensionLINQ.pdb
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\6. LINQ\MetodosDeExtensionLINQ\MetodosDeExtensionLINQ\obj\x86\Debug\MetodosDeExtensionLINQ.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\6. LINQ\MetodosDeExtensionLINQ\MetodosDeExtensionLINQ\obj\x86\Debug\MetodosDeExtensionLINQ.exe
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\6. LINQ\MetodosDeExtensionLINQ\MetodosDeExtensionLINQ\obj\x86\Debug\MetodosDeExtensionLINQ.pdb

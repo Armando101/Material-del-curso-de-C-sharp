@@ -1,0 +1,5 @@
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\2. Fundamentos de C#\CompilacionEjecucion\CompilacionEjecucion\bin\Debug\CompilacionEjecucion.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\2. Fundamentos de C#\CompilacionEjecucion\CompilacionEjecucion\bin\Debug\CompilacionEjecucion.pdb
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\2. Fundamentos de C#\CompilacionEjecucion\CompilacionEjecucion\obj\x86\Debug\CompilacionEjecucion.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\2. Fundamentos de C#\CompilacionEjecucion\CompilacionEjecucion\obj\x86\Debug\CompilacionEjecucion.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\2. Fundamentos de C#\CompilacionEjecucion\CompilacionEjecucion\obj\x86\Debug\CompilacionEjecucion.pdb

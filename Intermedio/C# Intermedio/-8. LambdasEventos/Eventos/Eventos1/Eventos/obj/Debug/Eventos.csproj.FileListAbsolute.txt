@@ -1,0 +1,6 @@
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\Eventos\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\Eventos\Eventos\bin\Debug\Eventos.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\Eventos\Eventos\bin\Debug\Eventos.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\Eventos\Eventos\obj\Debug\Eventos.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\Eventos\Eventos\obj\Debug\Eventos.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\Eventos\Eventos\obj\Debug\Eventos.pdb

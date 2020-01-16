@@ -1,0 +1,12 @@
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\6. Colecciones\Listas\Listas\bin\Debug\Listas.exe.config
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\6. Colecciones\Listas\Listas\bin\Debug\Listas.exe
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\6. Colecciones\Listas\Listas\bin\Debug\Listas.pdb
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\6. Colecciones\Listas\Listas\obj\Debug\Listas.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\6. Colecciones\Listas\Listas\obj\Debug\Listas.exe
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\6. Colecciones\Listas\Listas\obj\Debug\Listas.pdb
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\-5. Colecciones\Listas\Listas\bin\Debug\Listas.exe.config
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\-5. Colecciones\Listas\Listas\bin\Debug\Listas.exe
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\-5. Colecciones\Listas\Listas\bin\Debug\Listas.pdb
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\-5. Colecciones\Listas\Listas\obj\Debug\Listas.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\-5. Colecciones\Listas\Listas\obj\Debug\Listas.exe
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\-5. Colecciones\Listas\Listas\obj\Debug\Listas.pdb

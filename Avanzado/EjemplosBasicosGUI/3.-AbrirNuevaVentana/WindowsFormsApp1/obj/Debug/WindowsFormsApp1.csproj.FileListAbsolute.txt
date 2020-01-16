@@ -1,0 +1,30 @@
+C:\Users\arman\Desktop\Curso C#\Avanzado\EjerciciosMiercoles\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\arman\Desktop\Curso C#\Avanzado\EjerciciosMiercoles\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\arman\Desktop\Curso C#\Avanzado\EjerciciosMiercoles\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\arman\Desktop\Curso C#\Avanzado\EjerciciosMiercoles\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\arman\Desktop\Curso C#\Avanzado\EjerciciosMiercoles\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\arman\Desktop\Curso C#\Avanzado\EjerciciosMiercoles\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\arman\Desktop\Curso C#\Avanzado\EjerciciosMiercoles\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\arman\Desktop\Curso C#\Avanzado\EjerciciosMiercoles\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\arman\Desktop\Curso C#\Avanzado\EjerciciosMiercoles\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\arman\Desktop\Curso C#\Avanzado\EjerciciosMiercoles\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjerciciosMiercoles\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjerciciosMiercoles\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjerciciosMiercoles\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjerciciosMiercoles\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjerciciosMiercoles\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjerciciosMiercoles\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjerciciosMiercoles\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjerciciosMiercoles\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjerciciosMiercoles\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjerciciosMiercoles\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\AbrirNuevaVentana\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\AbrirNuevaVentana\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\AbrirNuevaVentana\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\AbrirNuevaVentana\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\AbrirNuevaVentana\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\AbrirNuevaVentana\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\AbrirNuevaVentana\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\AbrirNuevaVentana\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\AbrirNuevaVentana\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\AbrirNuevaVentana\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

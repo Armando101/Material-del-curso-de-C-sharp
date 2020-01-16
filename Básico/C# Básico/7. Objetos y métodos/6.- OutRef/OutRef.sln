@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutRef", "OutRef\OutRef.csproj", "{D5695F29-5BC4-462E-9636-4EADB3FB8D6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5695F29-5BC4-462E-9636-4EADB3FB8D6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5695F29-5BC4-462E-9636-4EADB3FB8D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5695F29-5BC4-462E-9636-4EADB3FB8D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5695F29-5BC4-462E-9636-4EADB3FB8D6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

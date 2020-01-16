@@ -1,0 +1,1 @@
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\7. Arreglos y IEnumerable\SintaxisArreglos2\SintaxisArreglos2\bin\Debug\SintaxisArreglos2.exe.config

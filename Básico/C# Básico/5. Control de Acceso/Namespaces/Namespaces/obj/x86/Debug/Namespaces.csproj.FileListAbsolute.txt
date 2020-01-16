@@ -1,0 +1,5 @@
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\5. Control de Acceso\Namespaces\Namespaces\bin\Debug\Namespaces.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\5. Control de Acceso\Namespaces\Namespaces\bin\Debug\Namespaces.pdb
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\5. Control de Acceso\Namespaces\Namespaces\obj\x86\Debug\Namespaces.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\5. Control de Acceso\Namespaces\Namespaces\obj\x86\Debug\Namespaces.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\5. Control de Acceso\Namespaces\Namespaces\obj\x86\Debug\Namespaces.pdb

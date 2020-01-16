@@ -1,0 +1,30 @@
+C:\Users\Jorge Luis\Desktop\Curso gato\MenusEjemplo\MenusEjemplo\bin\Debug\MenusEjemplo.exe.config
+C:\Users\Jorge Luis\Desktop\Curso gato\MenusEjemplo\MenusEjemplo\bin\Debug\MenusEjemplo.exe
+C:\Users\Jorge Luis\Desktop\Curso gato\MenusEjemplo\MenusEjemplo\bin\Debug\MenusEjemplo.pdb
+C:\Users\Jorge Luis\Desktop\Curso gato\MenusEjemplo\MenusEjemplo\obj\Debug\MenusEjemplo.csprojResolveAssemblyReference.cache
+C:\Users\Jorge Luis\Desktop\Curso gato\MenusEjemplo\MenusEjemplo\obj\Debug\MenusEjemplo.Form1.resources
+C:\Users\Jorge Luis\Desktop\Curso gato\MenusEjemplo\MenusEjemplo\obj\Debug\MenusEjemplo.Properties.Resources.resources
+C:\Users\Jorge Luis\Desktop\Curso gato\MenusEjemplo\MenusEjemplo\obj\Debug\MenusEjemplo.csproj.GenerateResource.Cache
+C:\Users\Jorge Luis\Desktop\Curso gato\MenusEjemplo\MenusEjemplo\obj\Debug\MenusEjemplo.exe
+C:\Users\Jorge Luis\Desktop\Curso gato\MenusEjemplo\MenusEjemplo\obj\Debug\MenusEjemplo.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\2.- Controles Básicos\MenusEjemplo\MenusEjemplo\bin\Debug\MenusEjemplo.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\2.- Controles Básicos\MenusEjemplo\MenusEjemplo\obj\Debug\MenusEjemplo.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\2.- Controles Básicos\MenusEjemplo\MenusEjemplo\obj\Debug\MenusEjemplo.pdb
+C:\Users\arman\Desktop\Curso C#\Avanzado\C#Avanzado\4. Controles Avanzados\MenusEjemplo\MenusEjemplo\bin\Debug\MenusEjemplo.exe.config
+C:\Users\arman\Desktop\Curso C#\Avanzado\C#Avanzado\4. Controles Avanzados\MenusEjemplo\MenusEjemplo\bin\Debug\MenusEjemplo.exe
+C:\Users\arman\Desktop\Curso C#\Avanzado\C#Avanzado\4. Controles Avanzados\MenusEjemplo\MenusEjemplo\bin\Debug\MenusEjemplo.pdb
+C:\Users\arman\Desktop\Curso C#\Avanzado\C#Avanzado\4. Controles Avanzados\MenusEjemplo\MenusEjemplo\obj\Debug\MenusEjemplo.csprojResolveAssemblyReference.cache
+C:\Users\arman\Desktop\Curso C#\Avanzado\C#Avanzado\4. Controles Avanzados\MenusEjemplo\MenusEjemplo\obj\Debug\MenusEjemplo.Form1.resources
+C:\Users\arman\Desktop\Curso C#\Avanzado\C#Avanzado\4. Controles Avanzados\MenusEjemplo\MenusEjemplo\obj\Debug\MenusEjemplo.Properties.Resources.resources
+C:\Users\arman\Desktop\Curso C#\Avanzado\C#Avanzado\4. Controles Avanzados\MenusEjemplo\MenusEjemplo\obj\Debug\MenusEjemplo.csproj.GenerateResource.Cache
+C:\Users\arman\Desktop\Curso C#\Avanzado\C#Avanzado\4. Controles Avanzados\MenusEjemplo\MenusEjemplo\obj\Debug\MenusEjemplo.exe
+C:\Users\arman\Desktop\Curso C#\Avanzado\C#Avanzado\4. Controles Avanzados\MenusEjemplo\MenusEjemplo\obj\Debug\MenusEjemplo.pdb
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\4. Controles Avanzados\MenusEjemplo\MenusEjemplo\bin\Debug\MenusEjemplo.exe.config
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\4. Controles Avanzados\MenusEjemplo\MenusEjemplo\bin\Debug\MenusEjemplo.exe
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\4. Controles Avanzados\MenusEjemplo\MenusEjemplo\bin\Debug\MenusEjemplo.pdb
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\4. Controles Avanzados\MenusEjemplo\MenusEjemplo\obj\Debug\MenusEjemplo.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\4. Controles Avanzados\MenusEjemplo\MenusEjemplo\obj\Debug\MenusEjemplo.Form1.resources
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\4. Controles Avanzados\MenusEjemplo\MenusEjemplo\obj\Debug\MenusEjemplo.Properties.Resources.resources
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\4. Controles Avanzados\MenusEjemplo\MenusEjemplo\obj\Debug\MenusEjemplo.csproj.GenerateResource.Cache
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\4. Controles Avanzados\MenusEjemplo\MenusEjemplo\obj\Debug\MenusEjemplo.exe
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\4. Controles Avanzados\MenusEjemplo\MenusEjemplo\obj\Debug\MenusEjemplo.pdb

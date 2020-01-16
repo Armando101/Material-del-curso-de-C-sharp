@@ -1,0 +1,12 @@
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\4. Manejo de archivos\ManejoSistemaArchivos\ManejoSistemaArchivos\bin\Debug\ManejoSistemaArchivos.exe
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\4. Manejo de archivos\ManejoSistemaArchivos\ManejoSistemaArchivos\bin\Debug\ManejoSistemaArchivos.pdb
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\4. Manejo de archivos\ManejoSistemaArchivos\ManejoSistemaArchivos\obj\x86\Debug\ManejoSistemaArchivos.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\4. Manejo de archivos\ManejoSistemaArchivos\ManejoSistemaArchivos\obj\x86\Debug\ManejoSistemaArchivos.exe
+C:\Users\AlonsoV\Desktop\csharp-examples-master\C# Intermedio\4. Manejo de archivos\ManejoSistemaArchivos\ManejoSistemaArchivos\obj\x86\Debug\ManejoSistemaArchivos.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\3. Manejo de archivos\ManejoSistemaArchivos\ManejoSistemaArchivos\obj\x86\Debug\ManejoSistemaArchivos.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\3. Manejo de archivos\ManejoSistemaArchivos\ManejoSistemaArchivos\obj\x86\Debug\ManejoSistemaArchivos.pdb
+C:\Users\arman\Desktop\Curso C#\Intermedio\C# Intermedio\-3. Manejo de archivos\ManejoSistemaArchivos\ManejoSistemaArchivos\bin\Debug\ManejoSistemaArchivos.exe
+C:\Users\arman\Desktop\Curso C#\Intermedio\C# Intermedio\-3. Manejo de archivos\ManejoSistemaArchivos\ManejoSistemaArchivos\bin\Debug\ManejoSistemaArchivos.pdb
+C:\Users\arman\Desktop\Curso C#\Intermedio\C# Intermedio\-3. Manejo de archivos\ManejoSistemaArchivos\ManejoSistemaArchivos\obj\x86\Debug\ManejoSistemaArchivos.csprojResolveAssemblyReference.cache
+C:\Users\arman\Desktop\Curso C#\Intermedio\C# Intermedio\-3. Manejo de archivos\ManejoSistemaArchivos\ManejoSistemaArchivos\obj\x86\Debug\ManejoSistemaArchivos.exe
+C:\Users\arman\Desktop\Curso C#\Intermedio\C# Intermedio\-3. Manejo de archivos\ManejoSistemaArchivos\ManejoSistemaArchivos\obj\x86\Debug\ManejoSistemaArchivos.pdb

@@ -1,0 +1,5 @@
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\7. Objetos y métodos\4.- ParametrosVariables\ParametrosVariables\bin\Debug\ParametrosVariables.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\7. Objetos y métodos\4.- ParametrosVariables\ParametrosVariables\bin\Debug\ParametrosVariables.pdb
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\7. Objetos y métodos\4.- ParametrosVariables\ParametrosVariables\obj\x86\Debug\ParametrosVariables.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\7. Objetos y métodos\4.- ParametrosVariables\ParametrosVariables\obj\x86\Debug\ParametrosVariables.pdb
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\7. Objetos y métodos\4.- ParametrosVariables\ParametrosVariables\obj\x86\Debug\ParametrosVariables.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Miercoles\Async\Async\bin\Debug\Async.exe.config
+C:\Users\Usuario\Desktop\Miercoles\Async\Async\bin\Debug\Async.exe
+C:\Users\Usuario\Desktop\Miercoles\Async\Async\bin\Debug\Async.pdb
+C:\Users\Usuario\Desktop\Miercoles\Async\Async\obj\Debug\Async.exe
+C:\Users\Usuario\Desktop\Miercoles\Async\Async\obj\Debug\Async.pdb
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\7. Concurrencia\Async\Async\bin\Debug\Async.exe.config
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\7. Concurrencia\Async\Async\bin\Debug\Async.exe
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\7. Concurrencia\Async\Async\bin\Debug\Async.pdb
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\7. Concurrencia\Async\Async\obj\Debug\Async.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\7. Concurrencia\Async\Async\obj\Debug\Async.exe
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\7. Concurrencia\Async\Async\obj\Debug\Async.pdb

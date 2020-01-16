@@ -1,0 +1,6 @@
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\ProyectoBasico\ProyectoBasico\bin\Debug\ProyectoBasico.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\ProyectoBasico\ProyectoBasico\bin\Debug\ProyectoBasico.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\ProyectoBasico\ProyectoBasico\bin\Debug\ProyectoBasico.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\ProyectoBasico\ProyectoBasico\obj\Debug\ProyectoBasico.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\ProyectoBasico\ProyectoBasico\obj\Debug\ProyectoBasico.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\ProyectoBasico\ProyectoBasico\obj\Debug\ProyectoBasico.pdb

@@ -1,0 +1,7 @@
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\1. Excepciones\ManejoExcepciones\ManejoExcepciones\bin\Debug\ManejoExcepciones.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\1. Excepciones\ManejoExcepciones\ManejoExcepciones\bin\Debug\ManejoExcepciones.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\1. Excepciones\ManejoExcepciones\ManejoExcepciones\obj\x86\Debug\ManejoExcepciones.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\1. Excepciones\ManejoExcepciones\ManejoExcepciones\obj\x86\Debug\ManejoExcepciones.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\1. Excepciones\ManejoExcepciones\ManejoExcepciones\obj\x86\Debug\ManejoExcepciones.pdb
+E:\ProtecoStuff\CursoC#Enero2017\C# Intermedio\1. Excepciones\ManejoExcepciones\ManejoExcepciones\obj\x86\Debug\ManejoExcepciones.exe
+E:\ProtecoStuff\CursoC#Enero2017\C# Intermedio\1. Excepciones\ManejoExcepciones\ManejoExcepciones\obj\x86\Debug\ManejoExcepciones.pdb

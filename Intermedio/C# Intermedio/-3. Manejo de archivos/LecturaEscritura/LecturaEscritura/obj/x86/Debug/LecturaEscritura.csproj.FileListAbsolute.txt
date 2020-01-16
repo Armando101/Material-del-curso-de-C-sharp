@@ -1,0 +1,5 @@
+C:\Users\arman\Desktop\Curso C#\Intermedio\C# Intermedio\-3. Manejo de archivos\LecturaEscritura\LecturaEscritura\bin\Debug\LecturaEscritura.exe
+C:\Users\arman\Desktop\Curso C#\Intermedio\C# Intermedio\-3. Manejo de archivos\LecturaEscritura\LecturaEscritura\bin\Debug\LecturaEscritura.pdb
+C:\Users\arman\Desktop\Curso C#\Intermedio\C# Intermedio\-3. Manejo de archivos\LecturaEscritura\LecturaEscritura\obj\x86\Debug\LecturaEscritura.csprojResolveAssemblyReference.cache
+C:\Users\arman\Desktop\Curso C#\Intermedio\C# Intermedio\-3. Manejo de archivos\LecturaEscritura\LecturaEscritura\obj\x86\Debug\LecturaEscritura.exe
+C:\Users\arman\Desktop\Curso C#\Intermedio\C# Intermedio\-3. Manejo de archivos\LecturaEscritura\LecturaEscritura\obj\x86\Debug\LecturaEscritura.pdb

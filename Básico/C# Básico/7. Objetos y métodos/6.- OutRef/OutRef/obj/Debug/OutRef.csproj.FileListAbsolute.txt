@@ -1,0 +1,12 @@
+C:\Users\arman\Documents\SharpDevelop Projects\OutRef\OutRef\obj\Debug\OutRef.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\SharpDevelop Projects\OutRef\OutRef\bin\Debug\OutRef.exe.config
+C:\Users\arman\Documents\SharpDevelop Projects\OutRef\OutRef\bin\Debug\OutRef.exe
+C:\Users\arman\Documents\SharpDevelop Projects\OutRef\OutRef\bin\Debug\OutRef.pdb
+C:\Users\arman\Documents\SharpDevelop Projects\OutRef\OutRef\obj\Debug\OutRef.exe
+C:\Users\arman\Documents\SharpDevelop Projects\OutRef\OutRef\obj\Debug\OutRef.pdb
+C:\Users\arman\Documents\PROTECO\C#\Básico\ejemplosBasico\OutRef\OutRef\bin\Debug\OutRef.exe.config
+C:\Users\arman\Documents\PROTECO\C#\Básico\ejemplosBasico\OutRef\OutRef\bin\Debug\OutRef.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\ejemplosBasico\OutRef\OutRef\bin\Debug\OutRef.pdb
+C:\Users\arman\Documents\PROTECO\C#\Básico\ejemplosBasico\OutRef\OutRef\obj\Debug\OutRef.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Básico\ejemplosBasico\OutRef\OutRef\obj\Debug\OutRef.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\ejemplosBasico\OutRef\OutRef\obj\Debug\OutRef.pdb

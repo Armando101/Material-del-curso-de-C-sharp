@@ -1,0 +1,27 @@
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\InscripcionListBox\InscripcionListBox\bin\Debug\InscripcionListBox.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\InscripcionListBox\InscripcionListBox\bin\Debug\InscripcionListBox.exe
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\InscripcionListBox\InscripcionListBox\bin\Debug\InscripcionListBox.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\InscripcionListBox\InscripcionListBox\obj\Debug\InscripcionListBox.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\InscripcionListBox\InscripcionListBox\obj\Debug\InscripcionListBox.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\InscripcionListBox\InscripcionListBox\obj\Debug\InscripcionListBox.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\InscripcionListBox\InscripcionListBox\obj\Debug\InscripcionListBox.exe
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\InscripcionListBox\InscripcionListBox\obj\Debug\InscripcionListBox.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\InscripcionListBox\InscripcionListBox\obj\Debug\InscripcionListBox.csprojResolveAssemblyReference.cache
+C:\Users\arman\Desktop\Curso C#\Avanzado\C#Avanzado\4. Controles Avanzados\InscripcionListBox\InscripcionListBox\bin\Debug\InscripcionListBox.exe.config
+C:\Users\arman\Desktop\Curso C#\Avanzado\C#Avanzado\4. Controles Avanzados\InscripcionListBox\InscripcionListBox\bin\Debug\InscripcionListBox.exe
+C:\Users\arman\Desktop\Curso C#\Avanzado\C#Avanzado\4. Controles Avanzados\InscripcionListBox\InscripcionListBox\bin\Debug\InscripcionListBox.pdb
+C:\Users\arman\Desktop\Curso C#\Avanzado\C#Avanzado\4. Controles Avanzados\InscripcionListBox\InscripcionListBox\obj\Debug\InscripcionListBox.csprojResolveAssemblyReference.cache
+C:\Users\arman\Desktop\Curso C#\Avanzado\C#Avanzado\4. Controles Avanzados\InscripcionListBox\InscripcionListBox\obj\Debug\InscripcionListBox.Form1.resources
+C:\Users\arman\Desktop\Curso C#\Avanzado\C#Avanzado\4. Controles Avanzados\InscripcionListBox\InscripcionListBox\obj\Debug\InscripcionListBox.Properties.Resources.resources
+C:\Users\arman\Desktop\Curso C#\Avanzado\C#Avanzado\4. Controles Avanzados\InscripcionListBox\InscripcionListBox\obj\Debug\InscripcionListBox.csproj.GenerateResource.Cache
+C:\Users\arman\Desktop\Curso C#\Avanzado\C#Avanzado\4. Controles Avanzados\InscripcionListBox\InscripcionListBox\obj\Debug\InscripcionListBox.exe
+C:\Users\arman\Desktop\Curso C#\Avanzado\C#Avanzado\4. Controles Avanzados\InscripcionListBox\InscripcionListBox\obj\Debug\InscripcionListBox.pdb
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\ProyectosVergasxD\InscripcionListBox\InscripcionListBox\bin\Debug\InscripcionListBox.exe.config
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\ProyectosVergasxD\InscripcionListBox\InscripcionListBox\bin\Debug\InscripcionListBox.exe
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\ProyectosVergasxD\InscripcionListBox\InscripcionListBox\bin\Debug\InscripcionListBox.pdb
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\ProyectosVergasxD\InscripcionListBox\InscripcionListBox\obj\Debug\InscripcionListBox.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\ProyectosVergasxD\InscripcionListBox\InscripcionListBox\obj\Debug\InscripcionListBox.Form1.resources
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\ProyectosVergasxD\InscripcionListBox\InscripcionListBox\obj\Debug\InscripcionListBox.Properties.Resources.resources
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\ProyectosVergasxD\InscripcionListBox\InscripcionListBox\obj\Debug\InscripcionListBox.csproj.GenerateResource.Cache
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\ProyectosVergasxD\InscripcionListBox\InscripcionListBox\obj\Debug\InscripcionListBox.exe
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\ProyectosVergasxD\InscripcionListBox\InscripcionListBox\obj\Debug\InscripcionListBox.pdb

@@ -1,0 +1,4 @@
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\7. Objetos y métodos\3.- TiposAnonimos\TiposAnonimos\bin\Debug\TiposAnonimos.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\7. Objetos y métodos\3.- TiposAnonimos\TiposAnonimos\bin\Debug\TiposAnonimos.pdb
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\7. Objetos y métodos\3.- TiposAnonimos\TiposAnonimos\obj\x86\Debug\TiposAnonimos.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\7. Objetos y métodos\3.- TiposAnonimos\TiposAnonimos\obj\x86\Debug\TiposAnonimos.pdb

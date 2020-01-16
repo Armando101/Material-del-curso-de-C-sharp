@@ -1,0 +1,6 @@
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\7. Concurrencia\EjercicioClase\EjercicioClase\bin\Debug\EjercicioClase.exe.config
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\7. Concurrencia\EjercicioClase\EjercicioClase\bin\Debug\EjercicioClase.exe
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\7. Concurrencia\EjercicioClase\EjercicioClase\bin\Debug\EjercicioClase.pdb
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\7. Concurrencia\EjercicioClase\EjercicioClase\obj\Debug\EjercicioClase.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\7. Concurrencia\EjercicioClase\EjercicioClase\obj\Debug\EjercicioClase.exe
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\7. Concurrencia\EjercicioClase\EjercicioClase\obj\Debug\EjercicioClase.pdb

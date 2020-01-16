@@ -1,0 +1,6 @@
+c:\users\alonsov\documents\visual studio 2015\Projects\Peda\Peda\bin\Debug\Peda.exe.config
+c:\users\alonsov\documents\visual studio 2015\Projects\Peda\Peda\bin\Debug\Peda.exe
+c:\users\alonsov\documents\visual studio 2015\Projects\Peda\Peda\bin\Debug\Peda.pdb
+c:\users\alonsov\documents\visual studio 2015\Projects\Peda\Peda\obj\Debug\Peda.csprojResolveAssemblyReference.cache
+c:\users\alonsov\documents\visual studio 2015\Projects\Peda\Peda\obj\Debug\Peda.exe
+c:\users\alonsov\documents\visual studio 2015\Projects\Peda\Peda\obj\Debug\Peda.pdb

@@ -1,0 +1,40 @@
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ClickMasRapido\ClickMasRapido\bin\Debug\ClickMasRapido.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ClickMasRapido\ClickMasRapido\bin\Debug\ClickMasRapido.exe
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ClickMasRapido\ClickMasRapido\bin\Debug\ClickMasRapido.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.exe
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\1.- Intro\ClickMasRapido\ClickMasRapido\bin\Debug\ClickMasRapido.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\1.- Intro\ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\1.- Intro\ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.pdb
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\3.-ClickMasRapido\ClickMasRapido\bin\Debug\ClickMasRapido.exe.config
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\3.-ClickMasRapido\ClickMasRapido\bin\Debug\ClickMasRapido.exe
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\3.-ClickMasRapido\ClickMasRapido\bin\Debug\ClickMasRapido.pdb
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\3.-ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\3.-ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.Form1.resources
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\3.-ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.Properties.Resources.resources
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\3.-ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.csproj.GenerateResource.Cache
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\3.-ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.exe
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\3.-ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.pdb
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\ClickMasRapido\ClickMasRapido\bin\Debug\ClickMasRapido.exe.config
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\ClickMasRapido\ClickMasRapido\bin\Debug\ClickMasRapido.exe
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\ClickMasRapido\ClickMasRapido\bin\Debug\ClickMasRapido.pdb
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.Form1.resources
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.Properties.Resources.resources
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.csproj.GenerateResource.Cache
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.exe
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.pdb
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\12. ClickMasRapido\ClickMasRapido\bin\Debug\ClickMasRapido.exe.config
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\12. ClickMasRapido\ClickMasRapido\bin\Debug\ClickMasRapido.exe
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\12. ClickMasRapido\ClickMasRapido\bin\Debug\ClickMasRapido.pdb
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\12. ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.csprojAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\12. ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.Form1.resources
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\12. ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.Properties.Resources.resources
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\12. ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.csproj.GenerateResource.cache
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\12. ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.csproj.CoreCompileInputs.cache
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\12. ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.exe
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\EjemplosBasicosGUI\12. ClickMasRapido\ClickMasRapido\obj\Debug\ClickMasRapido.pdb

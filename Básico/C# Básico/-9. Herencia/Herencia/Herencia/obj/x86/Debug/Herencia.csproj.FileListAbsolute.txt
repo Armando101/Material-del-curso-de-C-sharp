@@ -1,0 +1,10 @@
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\9. Herencia\Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\9. Herencia\Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\9. Herencia\Herencia\Herencia\obj\x86\Debug\Herencia.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\9. Herencia\Herencia\Herencia\obj\x86\Debug\Herencia.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\9. Herencia\Herencia\Herencia\obj\x86\Debug\Herencia.pdb
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\-9. Herencia\Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\-9. Herencia\Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\-9. Herencia\Herencia\Herencia\obj\x86\Debug\Herencia.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\-9. Herencia\Herencia\Herencia\obj\x86\Debug\Herencia.exe
+C:\Users\arman\Documents\PROTECO\C#\Básico\C# Básico\-9. Herencia\Herencia\Herencia\obj\x86\Debug\Herencia.pdb

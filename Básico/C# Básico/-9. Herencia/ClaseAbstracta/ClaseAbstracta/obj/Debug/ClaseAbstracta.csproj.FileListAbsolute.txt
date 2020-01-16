@@ -1,0 +1,6 @@
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\9. Herencia\ClaseAbstracta\ClaseAbstracta\bin\Debug\ClaseAbstracta.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\9. Herencia\ClaseAbstracta\ClaseAbstracta\bin\Debug\ClaseAbstracta.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\9. Herencia\ClaseAbstracta\ClaseAbstracta\bin\Debug\ClaseAbstracta.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\9. Herencia\ClaseAbstracta\ClaseAbstracta\obj\Debug\ClaseAbstracta.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\9. Herencia\ClaseAbstracta\ClaseAbstracta\obj\Debug\ClaseAbstracta.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Básico\9. Herencia\ClaseAbstracta\ClaseAbstracta\obj\Debug\ClaseAbstracta.pdb

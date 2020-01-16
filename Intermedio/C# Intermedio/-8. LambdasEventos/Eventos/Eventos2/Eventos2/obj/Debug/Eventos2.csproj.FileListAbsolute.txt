@@ -1,0 +1,30 @@
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\Eventos2\Eventos2\bin\Debug\Eventos2.exe.config
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\Eventos2\Eventos2\bin\Debug\Eventos2.exe
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\Eventos2\Eventos2\bin\Debug\Eventos2.pdb
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\Eventos2\Eventos2\obj\Debug\Eventos2.csprojResolveAssemblyReference.cache
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\Eventos2\Eventos2\obj\Debug\Eventos2.exe
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\Eventos2\Eventos2\obj\Debug\Eventos2.pdb
+G:\csharp20152\Eventos2\Eventos2\bin\Debug\Eventos2.exe.config
+G:\csharp20152\Eventos2\Eventos2\obj\Debug\Eventos2.exe
+G:\csharp20152\Eventos2\Eventos2\obj\Debug\Eventos2.pdb
+G:\csharp20152\Eventos2\Eventos2\bin\Debug\Eventos2.exe
+G:\csharp20152\Eventos2\Eventos2\bin\Debug\Eventos2.pdb
+G:\csharp20152\Eventos2\Eventos2\obj\Debug\Eventos2.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\Eventos2(8)\Eventos2\bin\Debug\Eventos2.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\Eventos2(8)\Eventos2\obj\Debug\Eventos2.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\Eventos2(8)\Eventos2\obj\Debug\Eventos2.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\Eventos2(8)\Eventos2\bin\Debug\Eventos2.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\Eventos2(8)\Eventos2\bin\Debug\Eventos2.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\Eventos2(8)\Eventos2\obj\Debug\Eventos2.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\1. Eventos\Eventos2(8)\Eventos2\bin\Debug\Eventos2.exe.config
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\1. Eventos\Eventos2(8)\Eventos2\bin\Debug\Eventos2.exe
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\1. Eventos\Eventos2(8)\Eventos2\bin\Debug\Eventos2.pdb
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\1. Eventos\Eventos2(8)\Eventos2\obj\Debug\Eventos2.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\1. Eventos\Eventos2(8)\Eventos2\obj\Debug\Eventos2.exe
+C:\Users\arman\Documents\PROTECO\C#\Avanzado\1. Eventos\Eventos2(8)\Eventos2\obj\Debug\Eventos2.pdb
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\-8. LambdasEventos\Eventos\Eventos2\Eventos2\bin\Debug\Eventos2.exe.config
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\-8. LambdasEventos\Eventos\Eventos2\Eventos2\bin\Debug\Eventos2.exe
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\-8. LambdasEventos\Eventos\Eventos2\Eventos2\bin\Debug\Eventos2.pdb
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\-8. LambdasEventos\Eventos\Eventos2\Eventos2\obj\Debug\Eventos2.csprojResolveAssemblyReference.cache
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\-8. LambdasEventos\Eventos\Eventos2\Eventos2\obj\Debug\Eventos2.exe
+C:\Users\arman\Documents\PROTECO\C#\Intermedio\C# Intermedio\-8. LambdasEventos\Eventos\Eventos2\Eventos2\obj\Debug\Eventos2.pdb

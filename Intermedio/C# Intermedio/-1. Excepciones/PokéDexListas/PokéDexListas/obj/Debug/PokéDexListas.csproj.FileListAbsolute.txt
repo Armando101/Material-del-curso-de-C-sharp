@@ -1,0 +1,6 @@
+c:\users\erick\documents\visual studio 2015\Projects\PokéDexListas\PokéDexListas\bin\Debug\PokéDexListas.exe.config
+c:\users\erick\documents\visual studio 2015\Projects\PokéDexListas\PokéDexListas\bin\Debug\PokéDexListas.exe
+c:\users\erick\documents\visual studio 2015\Projects\PokéDexListas\PokéDexListas\bin\Debug\PokéDexListas.pdb
+c:\users\erick\documents\visual studio 2015\Projects\PokéDexListas\PokéDexListas\obj\Debug\PokéDexListas.csprojResolveAssemblyReference.cache
+c:\users\erick\documents\visual studio 2015\Projects\PokéDexListas\PokéDexListas\obj\Debug\PokéDexListas.exe
+c:\users\erick\documents\visual studio 2015\Projects\PokéDexListas\PokéDexListas\obj\Debug\PokéDexListas.pdb

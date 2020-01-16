@@ -1,0 +1,5 @@
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\4. Genéricos\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\4. Genéricos\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\4. Genéricos\ClasesGenericas\ClasesGenericas\obj\x86\Debug\ClasesGenericas.csprojResolveAssemblyReference.cache
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\4. Genéricos\ClasesGenericas\ClasesGenericas\obj\x86\Debug\ClasesGenericas.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\4. Genéricos\ClasesGenericas\ClasesGenericas\obj\x86\Debug\ClasesGenericas.pdb

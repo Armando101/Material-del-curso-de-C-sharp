@@ -1,0 +1,12 @@
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\C# Intermedio\7. Eventos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
